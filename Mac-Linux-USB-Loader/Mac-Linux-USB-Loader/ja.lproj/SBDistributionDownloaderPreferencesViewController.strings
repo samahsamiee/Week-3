@@ -1,0 +1,48 @@
+/* Class = "NSMenuItem"; title = "weekly"; ObjectID = "4Be-1e-K5t"; */
+"4Be-1e-K5t.title" = "毎週";
+
+/* Class = "NSMenuItem"; title = "once per application launch"; ObjectID = "8vt-ts-25C"; */
+"8vt-ts-25C.title" = "アプリケーションを起動する毎に";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9a4-XT-p28"; */
+"9a4-XT-p28.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "yearly"; ObjectID = "AVN-H6-ilo"; */
+"AVN-H6-ilo.title" = "毎年";
+
+/* Class = "NSButtonCell"; title = "Open the downloaded ISO file"; ObjectID = "DEP-br-4VI"; */
+"DEP-br-4VI.title" = "ダウンロードされたISOファイルを開く";
+
+/* Class = "NSTextFieldCell"; title = "Update mirror lists:"; ObjectID = "DK4-Bn-Yrx"; */
+"DK4-Bn-Yrx.title" = "ミラーリストの更新:";
+
+/* Class = "NSButtonCell"; title = "Reveal in Finder"; ObjectID = "KgJ-iP-2yG"; */
+"KgJ-iP-2yG.title" = "Finderで表示";
+
+/* (No Commment) */
+"U0W-FU-ZGT.title" = "ダウンロード作業を";
+
+/* (No Commment) */
+"WoO-Ht-kfm.title" = "毎回確認する";
+
+/* (No Commment) */
+"aFy-72-3os.title" = "個まで許可";
+
+/* Class = "NSMenuItem"; title = "monthly"; ObjectID = "cGw-9o-3M3"; */
+"cGw-9o-3M3.title" = "毎月";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pL0-W8-rfZ"; */
+"pL0-W8-rfZ.title" = "ボックス";
+
+/* Class = "NSTextFieldCell"; title = "When a download has completed:"; ObjectID = "pf6-Co-bXh"; */
+"pf6-Co-bXh.title" = "ダウンロードが完了したとき:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "pwa-Ux-7V3"; */
+"pwa-Ux-7V3.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Do nothing"; ObjectID = "qe4-3B-RSI"; */
+"qe4-3B-RSI.title" = "何もしない";
+
+/* Class = "NSMenuItem"; title = "daily"; ObjectID = "vST-aP-7d3"; */
+"vST-aP-7d3.title" = "毎日";
+

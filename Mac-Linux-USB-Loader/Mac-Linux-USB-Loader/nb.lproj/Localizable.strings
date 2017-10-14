@@ -1,0 +1,195 @@
+/* No comment provided by engineer. */
+"Are you sure that you want to cancel this download operation?" = "Er du sikker på at du vil kansellere denne operasjonen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear caches?" = "Er du sikker på at du vil tømme cachene?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to enable clearing caches?" = "Er du sikker på at du vil aktivere tillate tømming av cacher?";
+
+/* No comment provided by engineer. */
+"Can't download this distribution." = "Kan ikke nedlaste denne distribusjonen.";
+
+/* No comment provided by engineer. */
+"Can't install to this USB device." = "Kan ikke installere til denne USB enhet.";
+
+/* No comment provided by engineer. */
+"Cannot use this USB as a startup disk." = "Kan ikke bruke denne USB som oppstarts disk.";
+
+/* No comment provided by engineer. */
+"Clear All" = "Fjern Alt";
+
+/* No comment provided by engineer. */
+"Couldn't get security scoped bookmarks." = "Kunne ikke få sikkerhets scoped bokmerker.";
+
+/* No comment provided by engineer. */
+"Create Live USB" = "Skap Live USB";
+
+/* No comment provided by engineer. */
+"Creating persistence file..." = "Skaper stadhaftighets fil...";
+
+/* No comment provided by engineer. */
+"Creating virtual loopback filesystem..." = "Skaper virtuell loopback filsystem...";
+
+/* (No Commment) */
+"Current Version" = "Nåværende Versjon";
+
+/* No comment provided by engineer. */
+"Distribution Downloader" = "Distribusjon Nedlaster";
+
+/* (No Commment) */
+"Distribution Name" = "Distribusjon Navn";
+
+/* No comment provided by engineer. */
+"Done creating persistence." = "Ferdig med å lage standhaftighet.";
+
+/* No comment provided by engineer. */
+"Downloader" = "Nedlaster";
+
+/* No comment provided by engineer. */
+"Enterprise" = "Enterprise";
+
+/* No comment provided by engineer. */
+"Finished Installing: " = "Installasjon Fullført: ";
+
+/* No comment provided by engineer. */
+"General" = "Generell";
+
+/* No comment provided by engineer. */
+"Grant Access" = "Gi Adgang";
+
+/* No comment provided by engineer. */
+"Invalid location name entered." = "Ugyldig lokasjon navn satt inn.";
+
+/* No comment provided by engineer. */
+"Mac Linux USB Loader cannot download the mirror lists because you are not connected to the Internet." = "Mac Linux USB Loaderkan ikke nedlaste listen med speil fordi du er ikke tilkoblet nettet.";
+
+/* No comment provided by engineer. */
+"No" = "Nei";
+
+/* No comment provided by engineer. */
+"No Enterprise source file selected." = "Ingen Enterprise kilde filer valgt.";
+
+/* No comment provided by engineer. */
+"No Registered Devices" = "Ingen Registrerte Enheter";
+
+/* No comment provided by engineer. */
+"No USB drive selected." = "Ingen USB enhet valgt.";
+
+/* No comment provided by engineer. */
+"No information about this distribution was found in your language." = "Ingen informasjon om denne distribusjonen var funnet på dit språk.";
+
+/* No comment provided by engineer. */
+"No information on this distribution could be found due to a network problem. You might not be connected to the Internet." = "Ingen informasjon om denne distribusjonen var funnet på grunn av et nettverks problem. Det er sjanse for at du er ikke tilkoblet nettet.";
+
+/* No comment provided by engineer. */
+"No network connection." = "Ingen nettverks forbindelse.";
+
+/* No comment provided by engineer. */
+"No source location name entered." = "Ingen kilde lokasjon navn satt inn.";
+
+/* No comment provided by engineer. */
+"No source location path entered." = "Ingen kilde lokasjon vei satt inn.";
+
+/* No comment provided by engineer. */
+"No source location version entered." = "Ingen kilde lokasjon versjon satt inn.";
+
+/* No comment provided by engineer. */
+"Not enough free space" = "Ikke nok fri plass";
+
+/* No comment provided by engineer. */
+"Okay" = "Okei";
+
+/* No comment provided by engineer. */
+"Perform Installation" = "Utfør installasjonen";
+
+/* No comment provided by engineer. */
+"Persistence Manager" = "Standhaftighets Organiserings Hjelp";
+
+/* No comment provided by engineer. */
+"Please select the directory containing Enterprise files." = "Vennligst velg katalogen som inneholder Enterprise files.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Preferanser";
+
+/* No comment provided by engineer. */
+"Setup USB Device" = "Oppsett USB Enhet";
+
+/* No comment provided by engineer. */
+"The USB device that you have selected cannot be accessed because the system denied access to the resource." = "USB enheten som du valgte kan ikke aksesseres fordi systemet nektet adgang til kilden.";
+
+/* No comment provided by engineer. */
+"The USB drive that you have selected does not have enough free space. At least %@ of space is required." = "USB enheten du har valgt har ikke nokk fri plass. Det minste som trengs %@ er nødvendig.";
+
+/* No comment provided by engineer. */
+"The installation failed because the Enterprise source that you have selected is either incomplete or missing." = "Installasjonen mislyktes fordi Enterprise kilden som du har valgt er enten ufullstendig eller manglende.";
+
+/* No comment provided by engineer. */
+"The name that you have entered for this Enterprise source already exists. Please enter a different name." = "Navnet du tastet inn for denne Enterprise kilden allerede eksisteres. Vennigst taster inn et annet navn.";
+
+/* No comment provided by engineer. */
+"The persistence file has been created. You should be able to boot your selected Linux distribution with persistence on this USB drive now." = "Standhaftighets filen er blitt skapt. Du burde være i stand til å boote opp din valgt Linux distribusjon med standhatfighet på denne USB enheten nå.";
+
+/* No comment provided by engineer. */
+"The source that you entered is not valid." = "Kilden du satt inn er ikke gyldig.";
+
+/* No comment provided by engineer. */
+"The source that you have selected is not valid because one or more of the Enterprise binaries are missing." = "Kilden du satt inn er ikke gyldig fordi én eller flere Enterprise binærfiler er manglende.";
+
+/* No comment provided by engineer. */
+"This USB drive cannot be used as a startup disk because OS X only recognizes startup disks with an HFS+ file system." = "Denne USB enheten kan ikke være brukt som oppstart disk fordi OS X kun gjenkjenner oppstart disker med en HFS+ fil system.";
+
+/* No comment provided by engineer. */
+"This can be useful if you want to conserve your disk space, but it will delete all of your downloaded ISO files and reset your download mirrors." = "Dette kan være nyttig hvis du vil konservere disk plass, men det kommer til å slette dine nedlastet ISO filer og nullstiller dine nedlastet speil.";
+
+/* No comment provided by engineer. */
+"This operation cannot be undone." = "Denne operasjonen kan ikke være ugjort.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted because it is included with Mac Linux USB Loader." = "Denne kilden kan ikke være slettet fordi den er inkludert med  Mac Linux USB Loader.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted." = "Denne kilden kan ikke være slettet.";
+
+/* No comment provided by engineer. */
+"This will clear your stored Enterprise sources, downloaded ISO files, and cached download mirror information every two months." = "Dette tømmer dine lagret Enterprise kilder, nedlastet ISO filer, og cache nedlastet speil informasjon hver to måneder.";
+
+/* No comment provided by engineer. */
+"To authorize Mac Linux USB Loader to access your USB drive, please click Grant Access below." = "For å autorisere denne Mac Linux USB Loader til å få adgang til din USB enhet, vennligst click Gi Adgang nedenfor.";
+
+/* No comment provided by engineer. */
+"Updates" = "Oppdateringer";
+
+/* No comment provided by engineer. */
+"Version" = "Versjon";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Versjon %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You are now ready to use your USB drive!" = "Du er nå klar til å bruke din USB enhet!";
+
+/* No comment provided by engineer. */
+"You cannot download this distribution because Mac Linux USB Loader has not finished downloading its list of mirrors." = "Du kan ikke velge denne distribusjonen fordi Mac Linux USB Loader er ikke ferdig med å nedlaste sine lister av speiler.";
+
+/* (No Commment) */
+"You cannot download this distribution because Mac USB Linux Loader has not finished downloading its list of mirrors." = "Du kan ikke velge denne distribusjonen fordi Mac USB Linux Loader er ikke ferdig med å nedlaste sine lister av speiler.";
+
+/* No comment provided by engineer. */
+"You need to enter a name for this Enterprise installation source." = "Du trenger å taste inn et navn for denne Enterprise installasjon kilden.";
+
+/* No comment provided by engineer. */
+"You need to enter a path to a folder containing a valid set of Enterprise binaries." = "Du trenger å sette inn et vei til filen som inneholder gyldig Enterprise binærfiler.";
+
+/* No comment provided by engineer. */
+"You need to enter the version of this Enterprise installation source." = "Du trenger å sette inn  versjonen av denne Enterprise installasjon kilden.";
+
+/* No comment provided by engineer. */
+"You need to select the USB drive to install to." = "Du må velge USB enheten å installere til.";
+
+/* No comment provided by engineer. */
+"You need to select the source of the Enterprise binaries that will be copied to this USB drive." = "Du trenger å velge Enterprise binærfiler som blir kopiert til denne USB enheten.";
+

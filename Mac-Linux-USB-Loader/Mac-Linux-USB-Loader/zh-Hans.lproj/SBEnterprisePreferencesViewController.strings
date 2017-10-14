@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "0kk-YU-L6Y"; */
+"0kk-YU-L6Y.title" = "名称：";
+
+/* Class = "NSTextFieldCell"; title = "From here you can select which Enterprise installation you wish to use. You may use the version shipping with this version of Mac Linux USB Loader or a custom version."; ObjectID = "4JQ-lJ-RBO"; */
+"4JQ-lJ-RBO.title" = "从这里，您可以选择要使用的镜像安装。 您可以使用此版本的Mac Linux USB Loader随附的版本或自定义版本。";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "6Ws-MU-uUV"; */
+"6Ws-MU-uUV.title" = "版本：";
+
+/* Class = "NSTextFieldCell"; title = "Enterprise Source"; ObjectID = "If0-6N-wdf"; */
+"If0-6N-wdf.title" = "镜像源";
+
+/* Class = "NSButtonCell"; title = "Update Settings"; ObjectID = "Nno-Gw-eVG"; */
+"Nno-Gw-eVG.title" = "更新设置";
+
+/* Class = "NSTableColumn"; headerCell.title = "Installation Name"; ObjectID = "b3F-bP-GJw"; */
+"b3F-bP-GJw.headerCell.title" = "安装名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "cRe-PI-Km1"; */
+"cRe-PI-Km1.headerCell.title" = "版本";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "dCs-R3-PHe"; */
+"dCs-R3-PHe.title" = "添加";
+
+/* Class = "NSBox"; title = "Setup Options"; ObjectID = "g6S-hW-I9i"; */
+"g6S-hW-I9i.title" = "设置选项";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nq4-qd-E2v"; */
+"nq4-qd-E2v.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tdk-Tr-KwR"; */
+"tdk-Tr-KwR.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "u1p-0P-YCC"; */
+"u1p-0P-YCC.title" = "打开";
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "uA0-we-3Q9"; */
+"uA0-we-3Q9.title" = "路径：";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "x6C-Jq-hjM"; */
+"x6C-Jq-hjM.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "yL6-cn-HFJ"; */
+"yL6-cn-HFJ.title" = "窗口";
+

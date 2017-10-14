@@ -1,0 +1,195 @@
+/* No comment provided by engineer. */
+"Are you sure that you want to cancel this download operation?" = "¿Está seguro de querer cancelar esta descarga?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear caches?" = "¿Está seguro que quiere borrar cachés?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to enable clearing caches?" = "¿Está seguro de que quiere habilitar la limpieza de caché?";
+
+/* No comment provided by engineer. */
+"Can't download this distribution." = "No es posible descargar esta distribución.";
+
+/* No comment provided by engineer. */
+"Can't install to this USB device." = "No es posible instalar en este dispositivo USB.";
+
+/* No comment provided by engineer. */
+"Cannot use this USB as a startup disk." = "No es posible usar esta memoria USB como un disco de arranque.";
+
+/* No comment provided by engineer. */
+"Clear All" = "Limpiar todo";
+
+/* No comment provided by engineer. */
+"Couldn't get security scoped bookmarks." = "No se pudo obtener marcadores de seguridad.";
+
+/* No comment provided by engineer. */
+"Create Live USB" = "Crear Live USB";
+
+/* No comment provided by engineer. */
+"Creating persistence file..." = "Creando archivo de persistencia ...";
+
+/* No comment provided by engineer. */
+"Creating virtual loopback filesystem..." = "Creando sistema de archivos virtual ...";
+
+/* (No Commment) */
+"Current Version" = "Versión actual";
+
+/* No comment provided by engineer. */
+"Distribution Downloader" = "Gestor de Descarga de Distribuciones";
+
+/* (No Commment) */
+"Distribution Name" = "Nombre distribución";
+
+/* No comment provided by engineer. */
+"Done creating persistence." = "Se ha creado la persistencia.";
+
+/* No comment provided by engineer. */
+"Downloader" = "Gestor de Descargas";
+
+/* No comment provided by engineer. */
+"Enterprise" = "Enterprise";
+
+/* No comment provided by engineer. */
+"Finished Installing: " = "Instalación Terminada: ";
+
+/* No comment provided by engineer. */
+"General" = "General";
+
+/* No comment provided by engineer. */
+"Grant Access" = "Permitir acceso";
+
+/* No comment provided by engineer. */
+"Invalid location name entered." = "Está introduciendo un nombre inválido.";
+
+/* No comment provided by engineer. */
+"Mac Linux USB Loader cannot download the mirror lists because you are not connected to the Internet." = "Mac Linux USB Loader no puede descargar las listas de repositorios de las distribuciones porque no hay conexión a Internet";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No Enterprise source file selected." = "No se ha seleccionado ninguna fuente de Enterprise.";
+
+/* No comment provided by engineer. */
+"No Registered Devices" = "No hay dispositivos registrados.";
+
+/* No comment provided by engineer. */
+"No USB drive selected." = "No se ha seleccionado ningún dispositivo USB.";
+
+/* No comment provided by engineer. */
+"No information about this distribution was found in your language." = "No se ha encontrado información de esta distribución en tu idioma.";
+
+/* No comment provided by engineer. */
+"No information on this distribution could be found due to a network problem. You might not be connected to the Internet." = "No se ha encontrado información de esta distribución por un problema de red. Puede que estés desconectado.";
+
+/* No comment provided by engineer. */
+"No network connection." = "No hay conexión de red.";
+
+/* No comment provided by engineer. */
+"No source location name entered." = "No se ha especificado carpeta de destino.";
+
+/* No comment provided by engineer. */
+"No source location path entered." = "No se ha especificado ruta.";
+
+/* No comment provided by engineer. */
+"No source location version entered." = "No se ha especificado versión";
+
+/* No comment provided by engineer. */
+"Not enough free space" = "No hay suficiente espacio libre.";
+
+/* No comment provided by engineer. */
+"Okay" = "Cerrar";
+
+/* No comment provided by engineer. */
+"Perform Installation" = "Instalar";
+
+/* No comment provided by engineer. */
+"Persistence Manager" = "Configuración de la Persistencia";
+
+/* No comment provided by engineer. */
+"Please select the directory containing Enterprise files." = "Por favor seleccione la carpeta que contiene los archivos de Enterprise.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Preferencias";
+
+/* No comment provided by engineer. */
+"Setup USB Device" = "Configurar Dispositivo USB";
+
+/* No comment provided by engineer. */
+"The USB device that you have selected cannot be accessed because the system denied access to the resource." = "No se ha podido acceder al dispositivo USB que ha seleccionado porque el sistema ha denegado el acceso al recurso.";
+
+/* No comment provided by engineer. */
+"The USB drive that you have selected does not have enough free space. At least %@ of space is required." = "El dispositivo USB que ha seleccionado no tiene suficiente espacio libre. Se requiere al menos %@ de espacio libre.";
+
+/* No comment provided by engineer. */
+"The installation failed because the Enterprise source that you have selected is either incomplete or missing." = "La instalación ha fallado porque la fuente de Enterprise que está seleccionado está incompleta o no existe.";
+
+/* No comment provided by engineer. */
+"The name that you have entered for this Enterprise source already exists. Please enter a different name." = "El nombre que está entrando para esta fuente de Enterprise ya existe. Por favor proporcione un nombre diferente.";
+
+/* No comment provided by engineer. */
+"The persistence file has been created. You should be able to boot your selected Linux distribution with persistence on this USB drive now." = "El archivo con la persistencia ha sido creado. Ahora debería ser capaz de arrancar su distribución de Linux seleccionada con la persistencia.";
+
+/* No comment provided by engineer. */
+"The source that you entered is not valid." = "La fuente que ha seleccionado no es válida.";
+
+/* No comment provided by engineer. */
+"The source that you have selected is not valid because one or more of the Enterprise binaries are missing." = "La fuente que ha seleccionado no es válida porque faltan uno o más binarios de Enterprise.";
+
+/* No comment provided by engineer. */
+"This USB drive cannot be used as a startup disk because OS X only recognizes startup disks with an HFS+ file system." = "Este dispositivo USB no puede ser usado como disco de arranque porque OS X solo reconoce discos de arranque con un sistema de archivos HFS+.";
+
+/* No comment provided by engineer. */
+"This can be useful if you want to conserve your disk space, but it will delete all of your downloaded ISO files and reset your download mirrors." = "Esto puede ser útil si quiere conservar espacio en su disco, pero borrará todos los archivos ISO y actualizará los repositorios de descarga.";
+
+/* No comment provided by engineer. */
+"This operation cannot be undone." = "Esta operación no se puede deshacer.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted because it is included with Mac Linux USB Loader." = "Este repositorio no puede ser borrado porque está incluido con Mac Linux USB Loader.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted." = "Este fuente no puede ser borrada.";
+
+/* No comment provided by engineer. */
+"This will clear your stored Enterprise sources, downloaded ISO files, and cached download mirror information every two months." = "Esta acción borrará las fuentes de Enterprise configuradas, archivos ISO descargados, y la información del caché de la información de las descargas cada dos meses.";
+
+/* No comment provided by engineer. */
+"To authorize Mac Linux USB Loader to access your USB drive, please click Grant Access below." = "Por favor haz click en Permitir Acceso para autorizar Mac Linus USB Loader a acceder a tu dispositivo USB.";
+
+/* No comment provided by engineer. */
+"Updates" = "Actualizaciones";
+
+/* No comment provided by engineer. */
+"Version" = "Versión";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Versión %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Yes" = "Sí";
+
+/* No comment provided by engineer. */
+"You are now ready to use your USB drive!" = "¡Ahora está listo para usar su dispositivo USB!";
+
+/* No comment provided by engineer. */
+"You cannot download this distribution because Mac Linux USB Loader has not finished downloading its list of mirrors." = "No puedes bajar esta distribución porque Mac Linux USB Loader no ha acabado de descargar la lista de mirrors.";
+
+/* (No Commment) */
+"You cannot download this distribution because Mac USB Linux Loader has not finished downloading its list of mirrors." = "No puedes bajar esta distribución porque Mac Linux USB Loader no ha acabado de descargar la lista de mirrors.";
+
+/* No comment provided by engineer. */
+"You need to enter a name for this Enterprise installation source." = "Es necesario especificar un nombre para esta la fuente de instalación de Enterprise.";
+
+/* No comment provided by engineer. */
+"You need to enter a path to a folder containing a valid set of Enterprise binaries." = "Es necesario especificar la ruta a la carpeta que contiene el grupo de archivos binarios válido de Enterprise.";
+
+/* No comment provided by engineer. */
+"You need to enter the version of this Enterprise installation source." = "Es necesario especificar la versión de este código de instalación Enterprise.";
+
+/* No comment provided by engineer. */
+"You need to select the USB drive to install to." = "Seleccione el dispositivo USB en el que hacer la instalación.";
+
+/* No comment provided by engineer. */
+"You need to select the source of the Enterprise binaries that will be copied to this USB drive." = "Es necesario seleccionar el orígen de los binarios Enterprise que van a ser copiados a este dispositivo USB.";
+

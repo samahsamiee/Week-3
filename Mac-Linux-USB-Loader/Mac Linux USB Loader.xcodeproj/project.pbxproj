@@ -1,0 +1,1372 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		240F98A118B060AD001EAE87 /* SBEnterpriseSourceLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 240F98A018B060AD001EAE87 /* SBEnterpriseSourceLocation.m */; };
+		240FE88019FB0D11004096C7 /* SBEnterpriseConfigurationWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 240FE87F19FB0D11004096C7 /* SBEnterpriseConfigurationWriter.m */; };
+		24101B881896D4A300EDE32C /* SBAboutWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24101B861896D4A300EDE32C /* SBAboutWindowController.m */; };
+		24101B8A1896D4AF00EDE32C /* SBAboutWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24101B8C1896D4AF00EDE32C /* SBAboutWindowController.xib */; };
+		2412CAEC1960E9E700501D7A /* DownloadOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 2412CAEB1960E9E700501D7A /* DownloadOperation.m */; };
+		24155CC518903AE400FAB98C /* mke2fs in Copy mke2fs */ = {isa = PBXBuildFile; fileRef = 24155CC218903AAB00FAB98C /* mke2fs */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		24155CC918903B3800FAB98C /* SBPersistenceManagerWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24155CC718903B3800FAB98C /* SBPersistenceManagerWindowController.m */; };
+		24155CCB18903B4500FAB98C /* SBPersistenceManagerWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24155CCD18903B4500FAB98C /* SBPersistenceManagerWindowController.xib */; };
+		2415E65C196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2415E65A196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.m */; };
+		24194C7A18DBA29800CFF588 /* SBSelectableCollectionViewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 24194C7918DBA29800CFF588 /* SBSelectableCollectionViewItem.m */; };
+		24194C7D18DBA41900CFF588 /* SBSelectableCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 24194C7C18DBA41900CFF588 /* SBSelectableCollectionView.m */; };
+		2420475018849C8B00ECAAFE /* SBAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2420474F18849C8B00ECAAFE /* SBAppDelegate.m */; };
+		2420BA3019A2660A00208240 /* NSImage+SaveToFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 2420BA2F19A2660A00208240 /* NSImage+SaveToFile.m */; };
+		24245F3218D222250085C43F /* NSString+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 24245F3118D222250085C43F /* NSString+Extensions.m */; };
+		2424764C194A180A0083033B /* NSProcessInfo+PECocoaBackports.m in Sources */ = {isa = PBXBuildFile; fileRef = 2424764B194A180A0083033B /* NSProcessInfo+PECocoaBackports.m */; };
+		2429600F1BC9D8CC00AB8445 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2429600E1BC9D8CC00AB8445 /* WebKit.framework */; };
+		242E92BA1CF201A40096DECA /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 242E92B41CF200260096DECA /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		242E92BB1CF202140096DECA /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 242E92B41CF200260096DECA /* Sparkle.framework */; };
+		245784941A8AA7680005F32F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 245784921A8AA7680005F32F /* Localizable.strings */; };
+		245784961A8AB7B80005F32F /* SBDistributionDownloaderPreferencesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 245784981A8AB7B80005F32F /* SBDistributionDownloaderPreferencesViewController.xib */; };
+		2457849D1A8AB86D0005F32F /* SBDistributionDownloaderWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2457849F1A8AB86D0005F32F /* SBDistributionDownloaderWindowController.xib */; };
+		245A2A8D1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 245A2A8B1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.m */; };
+		245A2A8F1AB4A82A00D3C021 /* SBUpdatePreferencesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 245A2A911AB4A82A00D3C021 /* SBUpdatePreferencesViewController.xib */; };
+		2465344E1B3228F7007706CF /* Errors.strings in Resources */ = {isa = PBXBuildFile; fileRef = 246534501B3228F7007706CF /* Errors.strings */; };
+		2465946C1E0C31C000614F75 /* dsa_pub.pem in Resources */ = {isa = PBXBuildFile; fileRef = 2465946B1E0C31C000614F75 /* dsa_pub.pem */; };
+		24680E4F18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24680E4D18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.m */; };
+		24680E5418AE7FE500B6E13F /* SBGeneralPreferencesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24680E5618AE7FE500B6E13F /* SBGeneralPreferencesViewController.xib */; };
+		24680E5B18AE8C3A00B6E13F /* SBEnterprisePreferencesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24680E5318AE7FE000B6E13F /* SBEnterprisePreferencesViewController.xib */; };
+		246AFF841E0C4947001AD081 /* org.sparkle-project.InstallerConnection.xpc in Copy XPC Services */ = {isa = PBXBuildFile; fileRef = 2465946D1E0C3D8700614F75 /* org.sparkle-project.InstallerConnection.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		246AFF851E0C4947001AD081 /* org.sparkle-project.InstallerStatus.xpc in Copy XPC Services */ = {isa = PBXBuildFile; fileRef = 2465946E1E0C3D8700614F75 /* org.sparkle-project.InstallerStatus.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		246AFF861E0C4947001AD081 /* org.sparkle-project.InstallerLauncher.xpc in Copy XPC Services */ = {isa = PBXBuildFile; fileRef = 24DD1A831D847C5C000C61BE /* org.sparkle-project.InstallerLauncher.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		24764FFD19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 24764FFC19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.m */; };
+		2476500019831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 24764FFF19831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.m */; };
+		249DF3F2189D7A3F00FECE0A /* NSFileManager+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 249DF3F1189D7A3F00FECE0A /* NSFileManager+Extensions.m */; };
+		24A4EC771884966900CE6CF0 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24A4EC761884966900CE6CF0 /* Cocoa.framework */; };
+		24A4EC811884966A00CE6CF0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 24A4EC7F1884966A00CE6CF0 /* InfoPlist.strings */; };
+		24A4EC831884966A00CE6CF0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A4EC821884966A00CE6CF0 /* main.m */; };
+		24A4EC871884966A00CE6CF0 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 24A4EC851884966A00CE6CF0 /* Credits.rtf */; };
+		24A4EC8A1884966A00CE6CF0 /* SBDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A4EC891884966A00CE6CF0 /* SBDocument.m */; };
+		24A4EC8D1884966A00CE6CF0 /* SBDocument.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24A4EC8B1884966A00CE6CF0 /* SBDocument.xib */; };
+		24A4EC901884966A00CE6CF0 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24A4EC8E1884966A00CE6CF0 /* MainMenu.xib */; };
+		24A4EC921884966A00CE6CF0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A4EC911884966A00CE6CF0 /* Images.xcassets */; };
+		24A4EC9A1884966A00CE6CF0 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24A4EC761884966900CE6CF0 /* Cocoa.framework */; };
+		24A4ECA21884966A00CE6CF0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 24A4ECA01884966A00CE6CF0 /* InfoPlist.strings */; };
+		24A4ECA41884966A00CE6CF0 /* Mac_Linux_USB_LoaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A4ECA31884966A00CE6CF0 /* Mac_Linux_USB_LoaderTests.m */; };
+		24B29B5719326F6C0009C3D8 /* SBDownloadableDistributionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B29B5619326F6C0009C3D8 /* SBDownloadableDistributionModel.m */; };
+		24B29B5A193270970009C3D8 /* SBDownloadMirrorModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B29B59193270970009C3D8 /* SBDownloadMirrorModel.m */; };
+		24B322FA18A00E4900A5E25E /* SBGeneralPreferencesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B322F818A00E4900A5E25E /* SBGeneralPreferencesViewController.m */; };
+		24B322FD18A0123F00A5E25E /* defaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 24B322FC18A0123F00A5E25E /* defaults.plist */; };
+		24B9F037189870D6002A3697 /* NSFileManager+DirectoryLocations.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B9F036189870D6002A3697 /* NSFileManager+DirectoryLocations.m */; };
+		24BF93CC1A462B1A00235EC9 /* mlul-disk.icns in Resources */ = {isa = PBXBuildFile; fileRef = 24BF93CB1A462B1A00235EC9 /* mlul-disk.icns */; };
+		24D39C0618DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.m in Sources */ = {isa = PBXBuildFile; fileRef = 24D39C0518DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.m */; };
+		24D75F90188AE75E00FF5ADC /* SBUSBSetupWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24D75F8E188AE75E00FF5ADC /* SBUSBSetupWindowController.m */; };
+		24D75F92188AE77100FF5ADC /* SBUSBSetupWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24D75F94188AE77100FF5ADC /* SBUSBSetupWindowController.xib */; };
+		24D75F99188AEC2300FF5ADC /* SBUSBDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 24D75F98188AEC2300FF5ADC /* SBUSBDevice.m */; };
+		24DD1A851D847C5C000C61BE /* Autoupdate in Resources */ = {isa = PBXBuildFile; fileRef = 24DD1A821D847C5C000C61BE /* Autoupdate */; };
+		24DD1A871D847C5C000C61BE /* Updater.app in Resources */ = {isa = PBXBuildFile; fileRef = 24DD1A841D847C5C000C61BE /* Updater.app */; };
+		24E0A595191D7CFF0043C24A /* SBDistributionDownloaderWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E0A593191D7CFF0043C24A /* SBDistributionDownloaderWindowController.m */; };
+		24E4F8D3196A0DF4002767C8 /* NSAlert+Popover.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E4F8D2196A0DF4002767C8 /* NSAlert+Popover.m */; };
+		24E6AB0519849611002CA3C9 /* boot.efi in Copy Enterprise Files */ = {isa = PBXBuildFile; fileRef = 24E6AB01198495E7002CA3C9 /* boot.efi */; };
+		24E6AB0619849612002CA3C9 /* bootX64.efi in Copy Enterprise Files */ = {isa = PBXBuildFile; fileRef = 24E6AB02198495E7002CA3C9 /* bootX64.efi */; };
+		24ED96C319A2444600723C4E /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24ED96C219A2444600723C4E /* SystemConfiguration.framework */; };
+		24F35F7E19D604AE0019CF54 /* Acknowledgements.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 24F35F7C19D604AE0019CF54 /* Acknowledgements.rtf */; };
+		24F713E91A1AA95D002C5E7F /* SystemVersion.plist in Resources */ = {isa = PBXBuildFile; fileRef = 24F713E81A1AA95D002C5E7F /* SystemVersion.plist */; };
+		7BC593D41A12C2FDCDD8F3BC /* libPods-Mac Linux USB Loader.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B19F9DC3F03C13317D00C60 /* libPods-Mac Linux USB Loader.a */; };
+		823A1D3BFFD7EBD71A31098F /* libPods-Mac Linux USB LoaderTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A5E30E33300CD49DE227A6C /* libPods-Mac Linux USB LoaderTests.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		245AC8021A17CDC20039E2C9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24A4EC6B1884966900CE6CF0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24A4EC721884966900CE6CF0;
+			remoteInfo = "Mac Linux USB Loader";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		24155CC418903AD200FAB98C /* Copy mke2fs */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = Tools;
+			dstSubfolderSpec = 7;
+			files = (
+				24155CC518903AE400FAB98C /* mke2fs in Copy mke2fs */,
+			);
+			name = "Copy mke2fs";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		242E92B81CF200380096DECA /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				242E92BA1CF201A40096DECA /* Sparkle.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		246AFF831E0C4938001AD081 /* Copy XPC Services */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/XPCServices";
+			dstSubfolderSpec = 16;
+			files = (
+				246AFF841E0C4947001AD081 /* org.sparkle-project.InstallerConnection.xpc in Copy XPC Services */,
+				246AFF851E0C4947001AD081 /* org.sparkle-project.InstallerStatus.xpc in Copy XPC Services */,
+				246AFF861E0C4947001AD081 /* org.sparkle-project.InstallerLauncher.xpc in Copy XPC Services */,
+			);
+			name = "Copy XPC Services";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24743B6C18BBE6E1008B5458 /* Copy Enterprise Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = Enterprise;
+			dstSubfolderSpec = 7;
+			files = (
+				24E6AB0519849611002CA3C9 /* boot.efi in Copy Enterprise Files */,
+				24E6AB0619849612002CA3C9 /* bootX64.efi in Copy Enterprise Files */,
+			);
+			name = "Copy Enterprise Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		085D80CD642314AEF05AE98C /* Pods-Mac Linux USB Loader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mac Linux USB Loader.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mac Linux USB Loader/Pods-Mac Linux USB Loader.debug.xcconfig"; sourceTree = "<group>"; };
+		0A5E30E33300CD49DE227A6C /* libPods-Mac Linux USB LoaderTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Mac Linux USB LoaderTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D46DD03C22338C5DD37172A /* Pods-Mac Linux USB LoaderTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mac Linux USB LoaderTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mac Linux USB LoaderTests/Pods-Mac Linux USB LoaderTests.debug.xcconfig"; sourceTree = "<group>"; };
+		24087B9E1884CF2D00DC3D88 /* Mac Linux USB Loader.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Mac Linux USB Loader.entitlements"; sourceTree = "<group>"; };
+		240F1FAB1891A88F00AE9F82 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		240F989F18B060AD001EAE87 /* SBEnterpriseSourceLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBEnterpriseSourceLocation.h; sourceTree = "<group>"; };
+		240F98A018B060AD001EAE87 /* SBEnterpriseSourceLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBEnterpriseSourceLocation.m; sourceTree = "<group>"; };
+		240FE87E19FB0D11004096C7 /* SBEnterpriseConfigurationWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBEnterpriseConfigurationWriter.h; sourceTree = "<group>"; };
+		240FE87F19FB0D11004096C7 /* SBEnterpriseConfigurationWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBEnterpriseConfigurationWriter.m; sourceTree = "<group>"; };
+		24101B851896D4A300EDE32C /* SBAboutWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBAboutWindowController.h; sourceTree = "<group>"; };
+		24101B861896D4A300EDE32C /* SBAboutWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBAboutWindowController.m; sourceTree = "<group>"; };
+		24101B8B1896D4AF00EDE32C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBAboutWindowController.xib; sourceTree = "<group>"; };
+		24101B8D1896D4DF00EDE32C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		2412CAEA1960E9E700501D7A /* DownloadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DownloadOperation.h; sourceTree = "<group>"; };
+		2412CAEB1960E9E700501D7A /* DownloadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DownloadOperation.m; sourceTree = "<group>"; };
+		24155CC218903AAB00FAB98C /* mke2fs */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = mke2fs; sourceTree = "<group>"; };
+		24155CC618903B3800FAB98C /* SBPersistenceManagerWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBPersistenceManagerWindowController.h; sourceTree = "<group>"; };
+		24155CC718903B3800FAB98C /* SBPersistenceManagerWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBPersistenceManagerWindowController.m; sourceTree = "<group>"; };
+		24155CCC18903B4500FAB98C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBPersistenceManagerWindowController.xib; sourceTree = "<group>"; };
+		2415E659196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDistributionDownloaderPreferencesViewController.h; sourceTree = "<group>"; };
+		2415E65A196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDistributionDownloaderPreferencesViewController.m; sourceTree = "<group>"; };
+		24194C7818DBA29800CFF588 /* SBSelectableCollectionViewItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBSelectableCollectionViewItem.h; sourceTree = "<group>"; };
+		24194C7918DBA29800CFF588 /* SBSelectableCollectionViewItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBSelectableCollectionViewItem.m; sourceTree = "<group>"; };
+		24194C7B18DBA41900CFF588 /* SBSelectableCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBSelectableCollectionView.h; sourceTree = "<group>"; };
+		24194C7C18DBA41900CFF588 /* SBSelectableCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBSelectableCollectionView.m; sourceTree = "<group>"; };
+		2420474C18849A4300ECAAFE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		2420474E18849C8B00ECAAFE /* SBAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBAppDelegate.h; sourceTree = "<group>"; };
+		2420474F18849C8B00ECAAFE /* SBAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBAppDelegate.m; sourceTree = "<group>"; };
+		2420BA2E19A2660A00208240 /* NSImage+SaveToFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+SaveToFile.h"; sourceTree = "<group>"; };
+		2420BA2F19A2660A00208240 /* NSImage+SaveToFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSImage+SaveToFile.m"; sourceTree = "<group>"; };
+		24245F3018D222250085C43F /* NSString+Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extensions.h"; sourceTree = "<group>"; };
+		24245F3118D222250085C43F /* NSString+Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extensions.m"; sourceTree = "<group>"; };
+		2424764A194A180A0083033B /* NSProcessInfo+PECocoaBackports.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSProcessInfo+PECocoaBackports.h"; sourceTree = "<group>"; };
+		2424764B194A180A0083033B /* NSProcessInfo+PECocoaBackports.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSProcessInfo+PECocoaBackports.m"; sourceTree = "<group>"; };
+		2424AD7C1AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		2424AD7D1AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		2424AD7E1AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		2424AD7F1AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		2424AD801AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		2424AD811AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		2424AD821AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		2424AD831AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		2424AD841AB37EE4004610EC /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		2424AD851AB37EE4004610EC /* nl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2429600E1BC9D8CC00AB8445 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		242E92B41CF200260096DECA /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sparkle.framework; path = Dependencies/Sparkle.framework; sourceTree = "<group>"; };
+		2440840C1D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MainMenu.strings"; sourceTree = "<group>"; };
+		2440840D1D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBDocument.strings"; sourceTree = "<group>"; };
+		2440840E1D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBAboutWindowController.strings"; sourceTree = "<group>"; };
+		2440840F1D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBUSBSetupWindowController.strings"; sourceTree = "<group>"; };
+		244084101D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBPersistenceManagerWindowController.strings"; sourceTree = "<group>"; };
+		244084111D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBDistributionDownloaderWindowController.strings"; sourceTree = "<group>"; };
+		244084121D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBGeneralPreferencesViewController.strings"; sourceTree = "<group>"; };
+		244084131D88D0C7009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBEnterprisePreferencesViewController.strings"; sourceTree = "<group>"; };
+		244084141D88D0C8009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBDistributionDownloaderPreferencesViewController.strings"; sourceTree = "<group>"; };
+		244084151D88D0C8009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SBUpdatePreferencesViewController.strings"; sourceTree = "<group>"; };
+		244084161D88D0C8009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Errors.strings"; sourceTree = "<group>"; };
+		244084171D88D0C8009F417C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		244A1D891D5147380064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		244A1D8A1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		244A1D8B1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		244A1D8C1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		244A1D8D1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		244A1D8E1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		244A1D8F1D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		244A1D901D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		244A1D911D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		244A1D921D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		244A1D931D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Errors.strings; sourceTree = "<group>"; };
+		244A1D941D5147390064E19E /* nb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		244A1D951D5147390064E19E /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		245784971A8AB7B80005F32F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBDistributionDownloaderPreferencesViewController.xib; sourceTree = "<group>"; };
+		2457849E1A8AB86D0005F32F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBDistributionDownloaderWindowController.xib; sourceTree = "<group>"; };
+		245A2A8A1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBUpdatePreferencesViewController.h; sourceTree = "<group>"; };
+		245A2A8B1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBUpdatePreferencesViewController.m; sourceTree = "<group>"; };
+		245A2A901AB4A82A00D3C021 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBUpdatePreferencesViewController.xib; sourceTree = "<group>"; };
+		245A2A991AB4ADB400D3C021 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		245AC8011A17CBAB0039E2C9 /* Mac-Linux-USB-Loader-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Mac-Linux-USB-Loader-Prefix.pch"; sourceTree = "<group>"; };
+		246204201D54E84700B39F8B /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		246534461B3228DD007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		246534471B3228DD007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		246534481B3228DD007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		246534491B3228DE007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2465344F1B3228F7007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Errors.strings; sourceTree = "<group>"; };
+		246534511B3228F7007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		246534521B3228F8007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		246534531B3228F8007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		246534541B3228F9007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		246534551B3228F9007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		246534561B3228FA007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		246534571B3228FB007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		246534581B3228FB007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		246534591B3228FC007706CF /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		2465946B1E0C31C000614F75 /* dsa_pub.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dsa_pub.pem; sourceTree = "<group>"; };
+		2465946D1E0C3D8700614F75 /* org.sparkle-project.InstallerConnection.xpc */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.xpc-service"; name = "org.sparkle-project.InstallerConnection.xpc"; path = "Dependencies/org.sparkle-project.InstallerConnection.xpc"; sourceTree = "<group>"; };
+		2465946E1E0C3D8700614F75 /* org.sparkle-project.InstallerStatus.xpc */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.xpc-service"; name = "org.sparkle-project.InstallerStatus.xpc"; path = "Dependencies/org.sparkle-project.InstallerStatus.xpc"; sourceTree = "<group>"; };
+		24680E4C18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBEnterprisePreferencesViewController.h; sourceTree = "<group>"; };
+		24680E4D18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBEnterprisePreferencesViewController.m; sourceTree = "<group>"; };
+		24680E5518AE7FE500B6E13F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBGeneralPreferencesViewController.xib; sourceTree = "<group>"; };
+		2474CC651DB91AEE00B45F8F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		2474CC661DB91AEE00B45F8F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		24764FFB19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDistributionDownloaderTableCellView.h; sourceTree = "<group>"; };
+		24764FFC19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDistributionDownloaderTableCellView.m; sourceTree = "<group>"; };
+		24764FFE19831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDistributionDownloaderDownloadsDataSource.h; sourceTree = "<group>"; };
+		24764FFF19831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDistributionDownloaderDownloadsDataSource.m; sourceTree = "<group>"; };
+		2477EBC71C062FA0006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		2477EBC81C062FA0006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		2477EBC91C062FA1006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		2477EBCA1C062FA1006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2477EBCB1C062FA2006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Errors.strings; sourceTree = "<group>"; };
+		2477EBCC1C062FA3006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		2477EBCD1C062FA4006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		2477EBCE1C062FA4006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2477EBCF1C062FA5006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		2477EBD01C062FA5006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		2477EBD11C062FA6006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		2477EBD21C062FA7006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2477EBD31C062FA7006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		2477EBD41C062FA7006EAA0D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		2494B5001B2E393E00A8D199 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		249DF3F0189D7A3F00FECE0A /* NSFileManager+Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSFileManager+Extensions.h"; sourceTree = "<group>"; };
+		249DF3F1189D7A3F00FECE0A /* NSFileManager+Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFileManager+Extensions.m"; sourceTree = "<group>"; };
+		249FBF2D1A8BF8C30087A8DF /* Base */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		24A4EC731884966900CE6CF0 /* Mac Linux USB Loader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mac Linux USB Loader.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A4EC761884966900CE6CF0 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		24A4EC791884966900CE6CF0 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		24A4EC7A1884966900CE6CF0 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		24A4EC7B1884966900CE6CF0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		24A4EC7E1884966A00CE6CF0 /* Mac Linux USB Loader-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mac Linux USB Loader-Info.plist"; sourceTree = "<group>"; };
+		24A4EC821884966A00CE6CF0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		24A4EC881884966A00CE6CF0 /* SBDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBDocument.h; sourceTree = "<group>"; };
+		24A4EC891884966A00CE6CF0 /* SBDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBDocument.m; sourceTree = "<group>"; };
+		24A4EC8C1884966A00CE6CF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBDocument.xib; sourceTree = "<group>"; };
+		24A4EC8F1884966A00CE6CF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		24A4EC911884966A00CE6CF0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		24A4EC971884966A00CE6CF0 /* Mac Linux USB LoaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mac Linux USB LoaderTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A4EC9F1884966A00CE6CF0 /* Mac Linux USB LoaderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mac Linux USB LoaderTests-Info.plist"; sourceTree = "<group>"; };
+		24A4ECA31884966A00CE6CF0 /* Mac_Linux_USB_LoaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Mac_Linux_USB_LoaderTests.m; sourceTree = "<group>"; };
+		24AE41F31BED0D9800E5B111 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Errors.strings; sourceTree = "<group>"; };
+		24B29B5519326F6C0009C3D8 /* SBDownloadableDistributionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDownloadableDistributionModel.h; sourceTree = "<group>"; };
+		24B29B5619326F6C0009C3D8 /* SBDownloadableDistributionModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDownloadableDistributionModel.m; sourceTree = "<group>"; };
+		24B29B58193270970009C3D8 /* SBDownloadMirrorModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDownloadMirrorModel.h; sourceTree = "<group>"; };
+		24B29B59193270970009C3D8 /* SBDownloadMirrorModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDownloadMirrorModel.m; sourceTree = "<group>"; };
+		24B29B5B19328E6E0009C3D8 /* DiskArbitration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DiskArbitration.framework; path = System/Library/Frameworks/DiskArbitration.framework; sourceTree = SDKROOT; };
+		24B322F718A00E4900A5E25E /* SBGeneralPreferencesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBGeneralPreferencesViewController.h; sourceTree = "<group>"; };
+		24B322F818A00E4900A5E25E /* SBGeneralPreferencesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBGeneralPreferencesViewController.m; sourceTree = "<group>"; };
+		24B322FC18A0123F00A5E25E /* defaults.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = defaults.plist; sourceTree = "<group>"; };
+		24B9F03418986EE4002A3697 /* SBGlobals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBGlobals.h; sourceTree = "<group>"; };
+		24B9F035189870D6002A3697 /* NSFileManager+DirectoryLocations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSFileManager+DirectoryLocations.h"; sourceTree = "<group>"; };
+		24B9F036189870D6002A3697 /* NSFileManager+DirectoryLocations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFileManager+DirectoryLocations.m"; sourceTree = "<group>"; };
+		24BB598A1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		24BB598B1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		24BB598C1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		24BB598D1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		24BB598E1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		24BB598F1C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		24BB59901C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		24BB59911C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		24BB59921C98D8B3006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		24BB59931C98D8B4006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		24BB59941C98D8B4006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Errors.strings; sourceTree = "<group>"; };
+		24BB59951C98D8B4006CA0C0 /* en */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		24BB59961C98D8B4006CA0C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24BF93CB1A462B1A00235EC9 /* mlul-disk.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "mlul-disk.icns"; sourceTree = "<group>"; };
+		24C720AE1C0B74C2008565FB /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24C720AF1C0B74C2008565FB /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Errors.strings; sourceTree = "<group>"; };
+		24C720B01C0B74C4008565FB /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24D2ED611C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		24D2ED621C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		24D2ED631C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		24D2ED641C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		24D2ED651C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		24D2ED661C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		24D2ED671C2F13F600F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		24D2ED681C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		24D2ED691C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		24D2ED6A1C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		24D2ED6B1C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Errors.strings; sourceTree = "<group>"; };
+		24D2ED6C1C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		24D2ED6D1C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24D2ED6E1C2F13F700F64DA9 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24D39C0418DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBUSBDeviceCollectionViewRepresentation.h; sourceTree = "<group>"; };
+		24D39C0518DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBUSBDeviceCollectionViewRepresentation.m; sourceTree = "<group>"; };
+		24D75F8D188AE75E00FF5ADC /* SBUSBSetupWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBUSBSetupWindowController.h; sourceTree = "<group>"; };
+		24D75F8E188AE75E00FF5ADC /* SBUSBSetupWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBUSBSetupWindowController.m; sourceTree = "<group>"; };
+		24D75F93188AE77100FF5ADC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBUSBSetupWindowController.xib; sourceTree = "<group>"; };
+		24D75F97188AEC2300FF5ADC /* SBUSBDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBUSBDevice.h; sourceTree = "<group>"; };
+		24D75F98188AEC2300FF5ADC /* SBUSBDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBUSBDevice.m; sourceTree = "<group>"; };
+		24D808C61B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBDocument.strings; sourceTree = "<group>"; };
+		24D808C71B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBAboutWindowController.strings; sourceTree = "<group>"; };
+		24D808C81B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBUSBSetupWindowController.strings; sourceTree = "<group>"; };
+		24D808C91B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBPersistenceManagerWindowController.strings; sourceTree = "<group>"; };
+		24D808CA1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBDistributionDownloaderWindowController.strings; sourceTree = "<group>"; };
+		24D808CB1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBGeneralPreferencesViewController.strings; sourceTree = "<group>"; };
+		24D808CC1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBEnterprisePreferencesViewController.strings; sourceTree = "<group>"; };
+		24D808CD1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBDistributionDownloaderPreferencesViewController.strings; sourceTree = "<group>"; };
+		24D808CE1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SBUpdatePreferencesViewController.strings; sourceTree = "<group>"; };
+		24D808CF1B41A87600C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Errors.strings; sourceTree = "<group>"; };
+		24D808D01B41A87700C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		24D808D11B41A87700C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		24D808D31B41A87700C95744 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		24DD1A821D847C5C000C61BE /* Autoupdate */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = Autoupdate; path = Dependencies/Autoupdate; sourceTree = "<group>"; };
+		24DD1A831D847C5C000C61BE /* org.sparkle-project.InstallerLauncher.xpc */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.xpc-service"; name = "org.sparkle-project.InstallerLauncher.xpc"; path = "Dependencies/org.sparkle-project.InstallerLauncher.xpc"; sourceTree = "<group>"; };
+		24DD1A841D847C5C000C61BE /* Updater.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; name = Updater.app; path = Dependencies/Updater.app; sourceTree = "<group>"; };
+		24E0A592191D7CFF0043C24A /* SBDistributionDownloaderWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBDistributionDownloaderWindowController.h; sourceTree = "<group>"; };
+		24E0A593191D7CFF0043C24A /* SBDistributionDownloaderWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBDistributionDownloaderWindowController.m; sourceTree = "<group>"; };
+		24E4F8D1196A0DF4002767C8 /* NSAlert+Popover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSAlert+Popover.h"; sourceTree = "<group>"; };
+		24E4F8D2196A0DF4002767C8 /* NSAlert+Popover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSAlert+Popover.m"; sourceTree = "<group>"; };
+		24E6AB01198495E7002CA3C9 /* boot.efi */ = {isa = PBXFileReference; lastKnownFileType = file; name = boot.efi; path = Tools/boot.efi; sourceTree = "<group>"; };
+		24E6AB02198495E7002CA3C9 /* bootX64.efi */ = {isa = PBXFileReference; lastKnownFileType = file; name = bootX64.efi; path = Tools/bootX64.efi; sourceTree = "<group>"; };
+		24ED96C219A2444600723C4E /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		24F35F7F19D604B30019CF54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Base; path = Base.lproj/Acknowledgements.rtf; sourceTree = "<group>"; };
+		24F35F8019D604BF0019CF54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Base; path = Base.lproj/Credits.rtf; sourceTree = "<group>"; };
+		24F713E81A1AA95D002C5E7F /* SystemVersion.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SystemVersion.plist; sourceTree = "<group>"; };
+		24F727C418BAC13B00B16013 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SBEnterprisePreferencesViewController.xib; sourceTree = "<group>"; };
+		24F92B071B45F2D800B026E6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3B69926B485D5615F5D276FF /* Pods-Mac Linux USB LoaderTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mac Linux USB LoaderTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mac Linux USB LoaderTests/Pods-Mac Linux USB LoaderTests.release.xcconfig"; sourceTree = "<group>"; };
+		6A5F675328D9CBE0D83F2E3F /* Pods-Mac Linux USB Loader.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mac Linux USB Loader.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mac Linux USB Loader/Pods-Mac Linux USB Loader.release.xcconfig"; sourceTree = "<group>"; };
+		9B19F9DC3F03C13317D00C60 /* libPods-Mac Linux USB Loader.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Mac Linux USB Loader.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24A4EC701884966900CE6CF0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2429600F1BC9D8CC00AB8445 /* WebKit.framework in Frameworks */,
+				24ED96C319A2444600723C4E /* SystemConfiguration.framework in Frameworks */,
+				242E92BB1CF202140096DECA /* Sparkle.framework in Frameworks */,
+				24A4EC771884966900CE6CF0 /* Cocoa.framework in Frameworks */,
+				7BC593D41A12C2FDCDD8F3BC /* libPods-Mac Linux USB Loader.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A4EC941884966A00CE6CF0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A4EC9A1884966A00CE6CF0 /* Cocoa.framework in Frameworks */,
+				823A1D3BFFD7EBD71A31098F /* libPods-Mac Linux USB LoaderTests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		24155CC118903A6E00FAB98C /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				24DD1A881D847C77000C61BE /* Sparkle */,
+				24155CC218903AAB00FAB98C /* mke2fs */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		24194C7718DBA25400CFF588 /* Apple Class Extensions and Subclasses */ = {
+			isa = PBXGroup;
+			children = (
+				24B9F035189870D6002A3697 /* NSFileManager+DirectoryLocations.h */,
+				24B9F036189870D6002A3697 /* NSFileManager+DirectoryLocations.m */,
+				249DF3F0189D7A3F00FECE0A /* NSFileManager+Extensions.h */,
+				249DF3F1189D7A3F00FECE0A /* NSFileManager+Extensions.m */,
+				24245F3018D222250085C43F /* NSString+Extensions.h */,
+				24245F3118D222250085C43F /* NSString+Extensions.m */,
+				24194C7818DBA29800CFF588 /* SBSelectableCollectionViewItem.h */,
+				24194C7918DBA29800CFF588 /* SBSelectableCollectionViewItem.m */,
+				24194C7B18DBA41900CFF588 /* SBSelectableCollectionView.h */,
+				24194C7C18DBA41900CFF588 /* SBSelectableCollectionView.m */,
+				2424764A194A180A0083033B /* NSProcessInfo+PECocoaBackports.h */,
+				2424764B194A180A0083033B /* NSProcessInfo+PECocoaBackports.m */,
+				24E4F8D1196A0DF4002767C8 /* NSAlert+Popover.h */,
+				24E4F8D2196A0DF4002767C8 /* NSAlert+Popover.m */,
+				24764FFB19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.h */,
+				24764FFC19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.m */,
+				2420BA2E19A2660A00208240 /* NSImage+SaveToFile.h */,
+				2420BA2F19A2660A00208240 /* NSImage+SaveToFile.m */,
+			);
+			name = "Apple Class Extensions and Subclasses";
+			sourceTree = "<group>";
+		};
+		24A4EC6A1884966900CE6CF0 = {
+			isa = PBXGroup;
+			children = (
+				24087B9E1884CF2D00DC3D88 /* Mac Linux USB Loader.entitlements */,
+				24A4EC7C1884966900CE6CF0 /* Mac-Linux-USB-Loader */,
+				24A4EC9D1884966A00CE6CF0 /* Mac-Linux-USB-LoaderTests */,
+				24A4EC751884966900CE6CF0 /* Frameworks */,
+				24A4EC741884966900CE6CF0 /* Products */,
+				2420474C18849A4300ECAAFE /* README.md */,
+				91DB98AF21698683680A8D2C /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		24A4EC741884966900CE6CF0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24A4EC731884966900CE6CF0 /* Mac Linux USB Loader.app */,
+				24A4EC971884966A00CE6CF0 /* Mac Linux USB LoaderTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24A4EC751884966900CE6CF0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				242E92B41CF200260096DECA /* Sparkle.framework */,
+				2429600E1BC9D8CC00AB8445 /* WebKit.framework */,
+				24ED96C219A2444600723C4E /* SystemConfiguration.framework */,
+				24B29B5B19328E6E0009C3D8 /* DiskArbitration.framework */,
+				24101B8D1896D4DF00EDE32C /* QuartzCore.framework */,
+				240F1FAB1891A88F00AE9F82 /* IOKit.framework */,
+				24A4EC761884966900CE6CF0 /* Cocoa.framework */,
+				24A4EC781884966900CE6CF0 /* Other Frameworks */,
+				9B19F9DC3F03C13317D00C60 /* libPods-Mac Linux USB Loader.a */,
+				0A5E30E33300CD49DE227A6C /* libPods-Mac Linux USB LoaderTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		24A4EC781884966900CE6CF0 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				24A4EC791884966900CE6CF0 /* AppKit.framework */,
+				24A4EC7A1884966900CE6CF0 /* CoreData.framework */,
+				24A4EC7B1884966900CE6CF0 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		24A4EC7C1884966900CE6CF0 /* Mac-Linux-USB-Loader */ = {
+			isa = PBXGroup;
+			children = (
+				24A4EC911884966A00CE6CF0 /* Images.xcassets */,
+				24BF93CB1A462B1A00235EC9 /* mlul-disk.icns */,
+				24E6AB00198493E6002CA3C9 /* Enterprise */,
+				24B29B5419326F320009C3D8 /* JSON Data Models */,
+				24194C7718DBA25400CFF588 /* Apple Class Extensions and Subclasses */,
+				24155CC118903A6E00FAB98C /* Tools */,
+				24D75F96188AEBCC00FF5ADC /* Core Classes and XIBs */,
+				24D75F95188AE7B200FF5ADC /* Module Window Controllers */,
+				24B322F618A00DCB00A5E25E /* Preferences View Controllers */,
+				24A4EC7D1884966A00CE6CF0 /* Supporting Files */,
+			);
+			path = "Mac-Linux-USB-Loader";
+			sourceTree = "<group>";
+		};
+		24A4EC7D1884966A00CE6CF0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2465946B1E0C31C000614F75 /* dsa_pub.pem */,
+				246534501B3228F7007706CF /* Errors.strings */,
+				245784921A8AA7680005F32F /* Localizable.strings */,
+				24B322FC18A0123F00A5E25E /* defaults.plist */,
+				24A4EC7E1884966A00CE6CF0 /* Mac Linux USB Loader-Info.plist */,
+				24A4EC7F1884966A00CE6CF0 /* InfoPlist.strings */,
+				24A4EC821884966A00CE6CF0 /* main.m */,
+				245AC8011A17CBAB0039E2C9 /* Mac-Linux-USB-Loader-Prefix.pch */,
+				24A4EC851884966A00CE6CF0 /* Credits.rtf */,
+				24F35F7C19D604AE0019CF54 /* Acknowledgements.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		24A4EC9D1884966A00CE6CF0 /* Mac-Linux-USB-LoaderTests */ = {
+			isa = PBXGroup;
+			children = (
+				24A4ECA31884966A00CE6CF0 /* Mac_Linux_USB_LoaderTests.m */,
+				24A4EC9E1884966A00CE6CF0 /* Supporting Files */,
+			);
+			path = "Mac-Linux-USB-LoaderTests";
+			sourceTree = "<group>";
+		};
+		24A4EC9E1884966A00CE6CF0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				24A4EC9F1884966A00CE6CF0 /* Mac Linux USB LoaderTests-Info.plist */,
+				24A4ECA01884966A00CE6CF0 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		24B29B5419326F320009C3D8 /* JSON Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				24B29B58193270970009C3D8 /* SBDownloadMirrorModel.h */,
+				24B29B59193270970009C3D8 /* SBDownloadMirrorModel.m */,
+				24B29B5519326F6C0009C3D8 /* SBDownloadableDistributionModel.h */,
+				24B29B5619326F6C0009C3D8 /* SBDownloadableDistributionModel.m */,
+			);
+			name = "JSON Data Models";
+			sourceTree = "<group>";
+		};
+		24B322F618A00DCB00A5E25E /* Preferences View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				24B322F718A00E4900A5E25E /* SBGeneralPreferencesViewController.h */,
+				24B322F818A00E4900A5E25E /* SBGeneralPreferencesViewController.m */,
+				24680E5618AE7FE500B6E13F /* SBGeneralPreferencesViewController.xib */,
+				24680E4C18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.h */,
+				24680E4D18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.m */,
+				24680E5318AE7FE000B6E13F /* SBEnterprisePreferencesViewController.xib */,
+				2415E659196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.h */,
+				2415E65A196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.m */,
+				245784981A8AB7B80005F32F /* SBDistributionDownloaderPreferencesViewController.xib */,
+				245A2A8A1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.h */,
+				245A2A8B1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.m */,
+				245A2A911AB4A82A00D3C021 /* SBUpdatePreferencesViewController.xib */,
+			);
+			name = "Preferences View Controllers";
+			sourceTree = "<group>";
+		};
+		24D75F95188AE7B200FF5ADC /* Module Window Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				24101B851896D4A300EDE32C /* SBAboutWindowController.h */,
+				24101B861896D4A300EDE32C /* SBAboutWindowController.m */,
+				24101B8C1896D4AF00EDE32C /* SBAboutWindowController.xib */,
+				24D75F8D188AE75E00FF5ADC /* SBUSBSetupWindowController.h */,
+				24D75F8E188AE75E00FF5ADC /* SBUSBSetupWindowController.m */,
+				24D75F94188AE77100FF5ADC /* SBUSBSetupWindowController.xib */,
+				24155CC618903B3800FAB98C /* SBPersistenceManagerWindowController.h */,
+				24155CC718903B3800FAB98C /* SBPersistenceManagerWindowController.m */,
+				24155CCD18903B4500FAB98C /* SBPersistenceManagerWindowController.xib */,
+				24E0A592191D7CFF0043C24A /* SBDistributionDownloaderWindowController.h */,
+				24E0A593191D7CFF0043C24A /* SBDistributionDownloaderWindowController.m */,
+				2457849F1A8AB86D0005F32F /* SBDistributionDownloaderWindowController.xib */,
+			);
+			name = "Module Window Controllers";
+			sourceTree = "<group>";
+		};
+		24D75F96188AEBCC00FF5ADC /* Core Classes and XIBs */ = {
+			isa = PBXGroup;
+			children = (
+				2412CAEA1960E9E700501D7A /* DownloadOperation.h */,
+				2412CAEB1960E9E700501D7A /* DownloadOperation.m */,
+				24B9F03418986EE4002A3697 /* SBGlobals.h */,
+				2420474E18849C8B00ECAAFE /* SBAppDelegate.h */,
+				2420474F18849C8B00ECAAFE /* SBAppDelegate.m */,
+				24A4EC8E1884966A00CE6CF0 /* MainMenu.xib */,
+				240F989F18B060AD001EAE87 /* SBEnterpriseSourceLocation.h */,
+				240F98A018B060AD001EAE87 /* SBEnterpriseSourceLocation.m */,
+				240FE87E19FB0D11004096C7 /* SBEnterpriseConfigurationWriter.h */,
+				240FE87F19FB0D11004096C7 /* SBEnterpriseConfigurationWriter.m */,
+				24A4EC881884966A00CE6CF0 /* SBDocument.h */,
+				24A4EC891884966A00CE6CF0 /* SBDocument.m */,
+				24A4EC8B1884966A00CE6CF0 /* SBDocument.xib */,
+				24D39C0418DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.h */,
+				24D39C0518DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.m */,
+				24D75F97188AEC2300FF5ADC /* SBUSBDevice.h */,
+				24D75F98188AEC2300FF5ADC /* SBUSBDevice.m */,
+				24764FFE19831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.h */,
+				24764FFF19831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.m */,
+			);
+			name = "Core Classes and XIBs";
+			sourceTree = "<group>";
+		};
+		24DD1A881D847C77000C61BE /* Sparkle */ = {
+			isa = PBXGroup;
+			children = (
+				24DD1A821D847C5C000C61BE /* Autoupdate */,
+				2465946D1E0C3D8700614F75 /* org.sparkle-project.InstallerConnection.xpc */,
+				2465946E1E0C3D8700614F75 /* org.sparkle-project.InstallerStatus.xpc */,
+				24DD1A831D847C5C000C61BE /* org.sparkle-project.InstallerLauncher.xpc */,
+				24DD1A841D847C5C000C61BE /* Updater.app */,
+			);
+			name = Sparkle;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		24E6AB00198493E6002CA3C9 /* Enterprise */ = {
+			isa = PBXGroup;
+			children = (
+				24F713E81A1AA95D002C5E7F /* SystemVersion.plist */,
+				24E6AB01198495E7002CA3C9 /* boot.efi */,
+				24E6AB02198495E7002CA3C9 /* bootX64.efi */,
+			);
+			name = Enterprise;
+			sourceTree = "<group>";
+		};
+		91DB98AF21698683680A8D2C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				085D80CD642314AEF05AE98C /* Pods-Mac Linux USB Loader.debug.xcconfig */,
+				6A5F675328D9CBE0D83F2E3F /* Pods-Mac Linux USB Loader.release.xcconfig */,
+				0D46DD03C22338C5DD37172A /* Pods-Mac Linux USB LoaderTests.debug.xcconfig */,
+				3B69926B485D5615F5D276FF /* Pods-Mac Linux USB LoaderTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24A4EC721884966900CE6CF0 /* Mac Linux USB Loader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A4ECA71884966A00CE6CF0 /* Build configuration list for PBXNativeTarget "Mac Linux USB Loader" */;
+			buildPhases = (
+				666BF4E42EADEB61B21C5F57 /* [CP] Check Pods Manifest.lock */,
+				24A4EC6F1884966900CE6CF0 /* Sources */,
+				24A4EC701884966900CE6CF0 /* Frameworks */,
+				24A4EC711884966900CE6CF0 /* Resources */,
+				24155CC418903AD200FAB98C /* Copy mke2fs */,
+				24743B6C18BBE6E1008B5458 /* Copy Enterprise Files */,
+				246AFF831E0C4938001AD081 /* Copy XPC Services */,
+				23CEDE1621F57F74D2B40B86 /* [CP] Embed Pods Frameworks */,
+				B68F4842EA4D3222B5C0E7CB /* [CP] Copy Pods Resources */,
+				242E92B81CF200380096DECA /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Mac Linux USB Loader";
+			productName = "Mac-Linux-USB-Loader";
+			productReference = 24A4EC731884966900CE6CF0 /* Mac Linux USB Loader.app */;
+			productType = "com.apple.product-type.application";
+		};
+		24A4EC961884966A00CE6CF0 /* Mac Linux USB LoaderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24A4ECAA1884966A00CE6CF0 /* Build configuration list for PBXNativeTarget "Mac Linux USB LoaderTests" */;
+			buildPhases = (
+				4F3F6972FB1C5E258B1AE7D5 /* [CP] Check Pods Manifest.lock */,
+				24A4EC931884966A00CE6CF0 /* Sources */,
+				24A4EC941884966A00CE6CF0 /* Frameworks */,
+				24A4EC951884966A00CE6CF0 /* Resources */,
+				722DCB879FE10ECD835EE403 /* [CP] Embed Pods Frameworks */,
+				86DC207A43C8B95B3F02CCEA /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				245AC8031A17CDC20039E2C9 /* PBXTargetDependency */,
+			);
+			name = "Mac Linux USB LoaderTests";
+			productName = "Mac-Linux-USB-LoaderTests";
+			productReference = 24A4EC971884966A00CE6CF0 /* Mac Linux USB LoaderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24A4EC6B1884966900CE6CF0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SB;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = SevenBits;
+				TargetAttributes = {
+					24A4EC721884966900CE6CF0 = {
+						DevelopmentTeam = 8PA6GA85US;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
+					};
+					24A4EC961884966A00CE6CF0 = {
+						ProvisioningStyle = Automatic;
+						TestTargetID = 24A4EC721884966900CE6CF0;
+					};
+				};
+			};
+			buildConfigurationList = 24A4EC6E1884966900CE6CF0 /* Build configuration list for PBXProject "Mac Linux USB Loader" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				nl,
+				de,
+				ja,
+				en,
+				nb,
+				"zh-Hans",
+			);
+			mainGroup = 24A4EC6A1884966900CE6CF0;
+			productRefGroup = 24A4EC741884966900CE6CF0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24A4EC721884966900CE6CF0 /* Mac Linux USB Loader */,
+				24A4EC961884966A00CE6CF0 /* Mac Linux USB LoaderTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24A4EC711884966900CE6CF0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				245784941A8AA7680005F32F /* Localizable.strings in Resources */,
+				24101B8A1896D4AF00EDE32C /* SBAboutWindowController.xib in Resources */,
+				24A4EC8D1884966A00CE6CF0 /* SBDocument.xib in Resources */,
+				24155CCB18903B4500FAB98C /* SBPersistenceManagerWindowController.xib in Resources */,
+				24F713E91A1AA95D002C5E7F /* SystemVersion.plist in Resources */,
+				2457849D1A8AB86D0005F32F /* SBDistributionDownloaderWindowController.xib in Resources */,
+				24A4EC921884966A00CE6CF0 /* Images.xcassets in Resources */,
+				2465344E1B3228F7007706CF /* Errors.strings in Resources */,
+				245784961A8AB7B80005F32F /* SBDistributionDownloaderPreferencesViewController.xib in Resources */,
+				2465946C1E0C31C000614F75 /* dsa_pub.pem in Resources */,
+				24680E5B18AE8C3A00B6E13F /* SBEnterprisePreferencesViewController.xib in Resources */,
+				24DD1A851D847C5C000C61BE /* Autoupdate in Resources */,
+				245A2A8F1AB4A82A00D3C021 /* SBUpdatePreferencesViewController.xib in Resources */,
+				24A4EC811884966A00CE6CF0 /* InfoPlist.strings in Resources */,
+				24B322FD18A0123F00A5E25E /* defaults.plist in Resources */,
+				24DD1A871D847C5C000C61BE /* Updater.app in Resources */,
+				24F35F7E19D604AE0019CF54 /* Acknowledgements.rtf in Resources */,
+				24BF93CC1A462B1A00235EC9 /* mlul-disk.icns in Resources */,
+				24A4EC871884966A00CE6CF0 /* Credits.rtf in Resources */,
+				24680E5418AE7FE500B6E13F /* SBGeneralPreferencesViewController.xib in Resources */,
+				24A4EC901884966A00CE6CF0 /* MainMenu.xib in Resources */,
+				24D75F92188AE77100FF5ADC /* SBUSBSetupWindowController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A4EC951884966A00CE6CF0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A4ECA21884966A00CE6CF0 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		23CEDE1621F57F74D2B40B86 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mac Linux USB Loader/Pods-Mac Linux USB Loader-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4F3F6972FB1C5E258B1AE7D5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		666BF4E42EADEB61B21C5F57 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		722DCB879FE10ECD835EE403 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mac Linux USB LoaderTests/Pods-Mac Linux USB LoaderTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		86DC207A43C8B95B3F02CCEA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mac Linux USB LoaderTests/Pods-Mac Linux USB LoaderTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B68F4842EA4D3222B5C0E7CB /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mac Linux USB Loader/Pods-Mac Linux USB Loader-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24A4EC6F1884966900CE6CF0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24E0A595191D7CFF0043C24A /* SBDistributionDownloaderWindowController.m in Sources */,
+				24194C7A18DBA29800CFF588 /* SBSelectableCollectionViewItem.m in Sources */,
+				2424764C194A180A0083033B /* NSProcessInfo+PECocoaBackports.m in Sources */,
+				24101B881896D4A300EDE32C /* SBAboutWindowController.m in Sources */,
+				2420475018849C8B00ECAAFE /* SBAppDelegate.m in Sources */,
+				24245F3218D222250085C43F /* NSString+Extensions.m in Sources */,
+				24B29B5A193270970009C3D8 /* SBDownloadMirrorModel.m in Sources */,
+				2412CAEC1960E9E700501D7A /* DownloadOperation.m in Sources */,
+				24B9F037189870D6002A3697 /* NSFileManager+DirectoryLocations.m in Sources */,
+				24B322FA18A00E4900A5E25E /* SBGeneralPreferencesViewController.m in Sources */,
+				24680E4F18AE7FD000B6E13F /* SBEnterprisePreferencesViewController.m in Sources */,
+				24194C7D18DBA41900CFF588 /* SBSelectableCollectionView.m in Sources */,
+				2476500019831FE800E4F9B0 /* SBDistributionDownloaderDownloadsDataSource.m in Sources */,
+				24D75F99188AEC2300FF5ADC /* SBUSBDevice.m in Sources */,
+				24D39C0618DA45FE0043C38F /* SBUSBDeviceCollectionViewRepresentation.m in Sources */,
+				24E4F8D3196A0DF4002767C8 /* NSAlert+Popover.m in Sources */,
+				24155CC918903B3800FAB98C /* SBPersistenceManagerWindowController.m in Sources */,
+				24A4EC831884966A00CE6CF0 /* main.m in Sources */,
+				24764FFD19831B9900E4F9B0 /* SBDistributionDownloaderTableCellView.m in Sources */,
+				24A4EC8A1884966A00CE6CF0 /* SBDocument.m in Sources */,
+				2420BA3019A2660A00208240 /* NSImage+SaveToFile.m in Sources */,
+				24D75F90188AE75E00FF5ADC /* SBUSBSetupWindowController.m in Sources */,
+				249DF3F2189D7A3F00FECE0A /* NSFileManager+Extensions.m in Sources */,
+				240FE88019FB0D11004096C7 /* SBEnterpriseConfigurationWriter.m in Sources */,
+				2415E65C196766FB00D26A4C /* SBDistributionDownloaderPreferencesViewController.m in Sources */,
+				24B29B5719326F6C0009C3D8 /* SBDownloadableDistributionModel.m in Sources */,
+				240F98A118B060AD001EAE87 /* SBEnterpriseSourceLocation.m in Sources */,
+				245A2A8D1AB4A81E00D3C021 /* SBUpdatePreferencesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24A4EC931884966A00CE6CF0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24A4ECA41884966A00CE6CF0 /* Mac_Linux_USB_LoaderTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		245AC8031A17CDC20039E2C9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24A4EC721884966900CE6CF0 /* Mac Linux USB Loader */;
+			targetProxy = 245AC8021A17CDC20039E2C9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		24101B8C1896D4AF00EDE32C /* SBAboutWindowController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24101B8B1896D4AF00EDE32C /* Base */,
+				2424AD7E1AB37EE4004610EC /* nl */,
+				246534541B3228F9007706CF /* es */,
+				24D808C71B41A87600C95744 /* de */,
+				2477EBCF1C062FA5006EAA0D /* it */,
+				24D2ED631C2F13F600F64DA9 /* ja */,
+				24BB598C1C98D8B3006CA0C0 /* en */,
+				244A1D8B1D5147390064E19E /* nb */,
+				2440840E1D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBAboutWindowController.xib;
+			sourceTree = "<group>";
+		};
+		24155CCD18903B4500FAB98C /* SBPersistenceManagerWindowController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24155CCC18903B4500FAB98C /* Base */,
+				2424AD801AB37EE4004610EC /* nl */,
+				246534591B3228FC007706CF /* es */,
+				24D808C91B41A87600C95744 /* de */,
+				2477EBD11C062FA6006EAA0D /* it */,
+				24D2ED651C2F13F600F64DA9 /* ja */,
+				24BB598E1C98D8B3006CA0C0 /* en */,
+				244A1D8D1D5147390064E19E /* nb */,
+				244084101D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBPersistenceManagerWindowController.xib;
+			sourceTree = "<group>";
+		};
+		245784921A8AA7680005F32F /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				249FBF2D1A8BF8C30087A8DF /* Base */,
+				2424AD851AB37EE4004610EC /* nl */,
+				246534521B3228F8007706CF /* es */,
+				24D808D01B41A87700C95744 /* de */,
+				2477EBCE1C062FA4006EAA0D /* it */,
+				24D2ED6C1C2F13F700F64DA9 /* ja */,
+				24BB59951C98D8B4006CA0C0 /* en */,
+				244A1D941D5147390064E19E /* nb */,
+				244084171D88D0C8009F417C /* zh-Hans */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		245784981A8AB7B80005F32F /* SBDistributionDownloaderPreferencesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				245784971A8AB7B80005F32F /* Base */,
+				2424AD841AB37EE4004610EC /* nl */,
+				246534511B3228F7007706CF /* es */,
+				24D808CD1B41A87600C95744 /* de */,
+				2477EBCC1C062FA3006EAA0D /* it */,
+				24D2ED691C2F13F700F64DA9 /* ja */,
+				24BB59921C98D8B3006CA0C0 /* en */,
+				244A1D911D5147390064E19E /* nb */,
+				244084141D88D0C8009F417C /* zh-Hans */,
+			);
+			name = SBDistributionDownloaderPreferencesViewController.xib;
+			sourceTree = "<group>";
+		};
+		2457849F1A8AB86D0005F32F /* SBDistributionDownloaderWindowController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2457849E1A8AB86D0005F32F /* Base */,
+				2424AD811AB37EE4004610EC /* nl */,
+				246534561B3228FA007706CF /* es */,
+				24D808CA1B41A87600C95744 /* de */,
+				2477EBCD1C062FA4006EAA0D /* it */,
+				24D2ED661C2F13F600F64DA9 /* ja */,
+				24BB598F1C98D8B3006CA0C0 /* en */,
+				244A1D8E1D5147390064E19E /* nb */,
+				244084111D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBDistributionDownloaderWindowController.xib;
+			sourceTree = "<group>";
+		};
+		245A2A911AB4A82A00D3C021 /* SBUpdatePreferencesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				245A2A901AB4A82A00D3C021 /* Base */,
+				245A2A991AB4ADB400D3C021 /* nl */,
+				246534471B3228DD007706CF /* es */,
+				24D808CE1B41A87600C95744 /* de */,
+				2477EBC81C062FA0006EAA0D /* it */,
+				24D2ED6A1C2F13F700F64DA9 /* ja */,
+				24BB59931C98D8B4006CA0C0 /* en */,
+				244A1D921D5147390064E19E /* nb */,
+				244084151D88D0C8009F417C /* zh-Hans */,
+			);
+			name = SBUpdatePreferencesViewController.xib;
+			sourceTree = "<group>";
+		};
+		246534501B3228F7007706CF /* Errors.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2465344F1B3228F7007706CF /* es */,
+				24D808CF1B41A87600C95744 /* de */,
+				24AE41F31BED0D9800E5B111 /* Base */,
+				2477EBCB1C062FA2006EAA0D /* it */,
+				24C720AF1C0B74C2008565FB /* nl */,
+				24D2ED6B1C2F13F700F64DA9 /* ja */,
+				24BB59941C98D8B4006CA0C0 /* en */,
+				244A1D931D5147390064E19E /* nb */,
+				244084161D88D0C8009F417C /* zh-Hans */,
+			);
+			name = Errors.strings;
+			sourceTree = "<group>";
+		};
+		24680E5318AE7FE000B6E13F /* SBEnterprisePreferencesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24F727C418BAC13B00B16013 /* Base */,
+				2424AD831AB37EE4004610EC /* nl */,
+				246534551B3228F9007706CF /* es */,
+				24D808CC1B41A87600C95744 /* de */,
+				2477EBD41C062FA7006EAA0D /* it */,
+				24D2ED681C2F13F700F64DA9 /* ja */,
+				24BB59911C98D8B3006CA0C0 /* en */,
+				244A1D901D5147390064E19E /* nb */,
+				244084131D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBEnterprisePreferencesViewController.xib;
+			sourceTree = "<group>";
+		};
+		24680E5618AE7FE500B6E13F /* SBGeneralPreferencesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24680E5518AE7FE500B6E13F /* Base */,
+				2424AD821AB37EE4004610EC /* nl */,
+				246534481B3228DD007706CF /* es */,
+				24D808CB1B41A87600C95744 /* de */,
+				2477EBC91C062FA1006EAA0D /* it */,
+				24D2ED671C2F13F600F64DA9 /* ja */,
+				24BB59901C98D8B3006CA0C0 /* en */,
+				244A1D8F1D5147390064E19E /* nb */,
+				244084121D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBGeneralPreferencesViewController.xib;
+			sourceTree = "<group>";
+		};
+		24A4EC7F1884966A00CE6CF0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2494B5001B2E393E00A8D199 /* Base */,
+				246534531B3228F8007706CF /* es */,
+				24D808D11B41A87700C95744 /* de */,
+				2477EBD21C062FA7006EAA0D /* it */,
+				24C720B01C0B74C4008565FB /* nl */,
+				24D2ED6D1C2F13F700F64DA9 /* ja */,
+				24BB59961C98D8B4006CA0C0 /* en */,
+				244A1D951D5147390064E19E /* nb */,
+				2474CC661DB91AEE00B45F8F /* zh-Hans */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		24A4EC851884966A00CE6CF0 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24F35F8019D604BF0019CF54 /* Base */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		24A4EC8B1884966A00CE6CF0 /* SBDocument.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24A4EC8C1884966A00CE6CF0 /* Base */,
+				2424AD7D1AB37EE4004610EC /* nl */,
+				246534461B3228DD007706CF /* es */,
+				24D808C61B41A87600C95744 /* de */,
+				2477EBC71C062FA0006EAA0D /* it */,
+				24D2ED621C2F13F600F64DA9 /* ja */,
+				24BB598B1C98D8B3006CA0C0 /* en */,
+				244A1D8A1D5147390064E19E /* nb */,
+				2440840D1D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBDocument.xib;
+			sourceTree = "<group>";
+		};
+		24A4EC8E1884966A00CE6CF0 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24A4EC8F1884966A00CE6CF0 /* Base */,
+				2424AD7C1AB37EE4004610EC /* nl */,
+				246534571B3228FB007706CF /* es */,
+				24D808D31B41A87700C95744 /* de */,
+				2477EBD31C062FA7006EAA0D /* it */,
+				24D2ED611C2F13F600F64DA9 /* ja */,
+				24BB598A1C98D8B3006CA0C0 /* en */,
+				244A1D891D5147380064E19E /* nb */,
+				2440840C1D88D0C7009F417C /* zh-Hans */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		24A4ECA01884966A00CE6CF0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				246534491B3228DE007706CF /* es */,
+				24F92B071B45F2D800B026E6 /* de */,
+				2477EBCA1C062FA1006EAA0D /* it */,
+				24C720AE1C0B74C2008565FB /* nl */,
+				24D2ED6E1C2F13F700F64DA9 /* ja */,
+				246204201D54E84700B39F8B /* nb */,
+				2474CC651DB91AEE00B45F8F /* zh-Hans */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		24D75F94188AE77100FF5ADC /* SBUSBSetupWindowController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24D75F93188AE77100FF5ADC /* Base */,
+				2424AD7F1AB37EE4004610EC /* nl */,
+				246534581B3228FB007706CF /* es */,
+				24D808C81B41A87600C95744 /* de */,
+				2477EBD01C062FA5006EAA0D /* it */,
+				24D2ED641C2F13F600F64DA9 /* ja */,
+				24BB598D1C98D8B3006CA0C0 /* en */,
+				244A1D8C1D5147390064E19E /* nb */,
+				2440840F1D88D0C7009F417C /* zh-Hans */,
+			);
+			name = SBUSBSetupWindowController.xib;
+			sourceTree = "<group>";
+		};
+		24F35F7C19D604AE0019CF54 /* Acknowledgements.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24F35F7F19D604B30019CF54 /* Base */,
+			);
+			name = Acknowledgements.rtf;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24A4ECA51884966A00CE6CF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		24A4ECA61884966A00CE6CF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		24A4ECA81884966A00CE6CF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 085D80CD642314AEF05AE98C /* Pods-Mac Linux USB Loader.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Mac Linux USB Loader.entitlements";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/Mac_Linux_USB_Loader-ftzupntfxyasrlcinvwljpuogpbh/Build/Products/Debug",
+					"$(PROJECT_DIR)/Pods/Sparkle",
+					"$(PROJECT_DIR)/Dependencies",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Mac-Linux-USB-Loader/Mac-Linux-USB-Loader-Prefix.pch";
+				GCC_WARN_PEDANTIC = YES;
+				INFOPLIST_FILE = "Mac-Linux-USB-Loader/Mac Linux USB Loader-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks $(CONFIGURATION_BUILD_DIR) @loader_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sevenbits.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "Mac Linux USB Loader";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		24A4ECA91884966A00CE6CF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A5F675328D9CBE0D83F2E3F /* Pods-Mac Linux USB Loader.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Mac Linux USB Loader.entitlements";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/Mac_Linux_USB_Loader-ftzupntfxyasrlcinvwljpuogpbh/Build/Products/Debug",
+					"$(PROJECT_DIR)/Pods/Sparkle",
+					"$(PROJECT_DIR)/Dependencies",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Mac-Linux-USB-Loader/Mac-Linux-USB-Loader-Prefix.pch";
+				GCC_WARN_PEDANTIC = YES;
+				INFOPLIST_FILE = "Mac-Linux-USB-Loader/Mac Linux USB Loader-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sevenbits.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "Mac Linux USB Loader";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		24A4ECAB1884966A00CE6CF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0D46DD03C22338C5DD37172A /* Pods-Mac Linux USB LoaderTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Mac Linux USB Loader.app/Contents/MacOS/Mac Linux USB Loader";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Mac-Linux-USB-Loader/Mac-Linux-USB-Loader-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Mac-Linux-USB-LoaderTests/Mac Linux USB LoaderTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sevenbits.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "Mac Linux USB LoaderTests";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		24A4ECAC1884966A00CE6CF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B69926B485D5615F5D276FF /* Pods-Mac Linux USB LoaderTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Mac Linux USB Loader.app/Contents/MacOS/Mac Linux USB Loader";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Mac-Linux-USB-Loader/Mac-Linux-USB-Loader-Prefix.pch";
+				INFOPLIST_FILE = "Mac-Linux-USB-LoaderTests/Mac Linux USB LoaderTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sevenbits.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "Mac Linux USB LoaderTests";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24A4EC6E1884966900CE6CF0 /* Build configuration list for PBXProject "Mac Linux USB Loader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A4ECA51884966A00CE6CF0 /* Debug */,
+				24A4ECA61884966A00CE6CF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A4ECA71884966A00CE6CF0 /* Build configuration list for PBXNativeTarget "Mac Linux USB Loader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A4ECA81884966A00CE6CF0 /* Debug */,
+				24A4ECA91884966A00CE6CF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24A4ECAA1884966A00CE6CF0 /* Build configuration list for PBXNativeTarget "Mac Linux USB LoaderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24A4ECAB1884966A00CE6CF0 /* Debug */,
+				24A4ECAC1884966A00CE6CF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24A4EC6B1884966900CE6CF0 /* Project object */;
+}

@@ -1,0 +1,30 @@
+/* Class = "NSWindow"; title = "Persistence Setup"; ObjectID = "1"; */
+"1.title" = "保存領域の設定";
+
+/* Class = "NSTextFieldCell"; title = "Target USB:"; ObjectID = "Apk-Mg-4gj"; */
+"Apk-Mg-4gj.title" = "対象のUSB:";
+
+/* Class = "NSTextFieldCell"; title = "Persistence Size:"; ObjectID = "Dpm-6U-5pw"; */
+"Dpm-6U-5pw.title" = "保存領域のサイズ:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "NrD-gi-cN6"; */
+"NrD-gi-cN6.title" = "ラベル";
+
+/* (No Commment) */
+"be7-b0-Wt7.title" = "保存領域オプション";
+
+/* Class = "NSButtonCell"; title = "Reset Slider"; ObjectID = "fCZ-FR-PGe"; */
+"fCZ-FR-PGe.title" = "スライダーをリセットする";
+
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "lBS-19-NXo"; */
+"lBS-19-NXo.title" = "更新";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pU6-Lx-5pd"; */
+"pU6-Lx-5pd.title" = "";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "zJc-F1-8LP"; */
+"zJc-F1-8LP.title" = "";
+
+/* Class = "NSButtonCell"; title = "Create Persistence"; ObjectID = "zZH-rW-NE2"; */
+"zZH-rW-NE2.title" = "保存領域を作成";
+

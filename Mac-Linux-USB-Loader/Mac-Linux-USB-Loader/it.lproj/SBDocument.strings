@@ -1,0 +1,75 @@
+/* Class = "NSMenuItem"; title = "Ubuntu"; ObjectID = "1Mg-wi-KZr"; */
+"1Mg-wi-KZr.title" = "Ubuntu";
+
+/* Class = "NSButtonCell"; title = "This ISO lacks an EFI-enabled kernel"; ObjectID = "2N3-rh-Hxh"; */
+"2N3-rh-Hxh.title" = "Questa ISO non ha un EFI-enabled kernel";
+
+/* Class = "NSMenuItem"; title = "Tails"; ObjectID = "2ch-0e-x2y"; */
+"2ch-0e-x2y.title" = "Code";
+
+/* Class = "NSTextFieldCell"; title = "Choose Enterprise Source:"; ObjectID = "4e7-Dc-wKh"; */
+"4e7-Dc-wKh.title" = "Scegli Sorgente Enterprise:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Finestra";
+
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "6eC-ug-AG8"; */
+"6eC-ug-AG8.title" = "Aggiorna";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "6uC-rz-J2n"; */
+"6uC-rz-J2n.title" = "Precendente";
+
+/* Class = "NSMenuItem"; title = "Other"; ObjectID = "7Id-gS-sW7"; */
+"7Id-gS-sW7.title" = "Altro";
+
+/* Class = "NSTextFieldCell"; title = "Your Live USB has been created successfully. To boot it, please leave this drive in your Mac and restart your computer while holding down the Option (⌥) key. When the boot manager appears, select your drive."; ObjectID = "8Ja-iN-ujj"; */
+"8Ja-iN-ujj.title" = "La tua Live USB è stata creata con successo. Per lanciarla, lascia la chiavetta inserita nel tuo Mac e riavvia il tuo computer tenendo premuto il pulsante Opzioni (⌥). Quando il boot manager appare, seleziona il tuo dispositivo.";
+
+/* Class = "NSTextFieldCell"; title = "Installation Options"; ObjectID = "85w-Ab-eWi"; */
+"85w-Ab-eWi.title" = "Opzioni di Installazione";
+
+/* Class = "NSTabViewItem"; label = "Third"; ObjectID = "206-oW-lz5"; */
+"206-oW-lz5.label" = "Terzo";
+
+/* Class = "NSMenuItem"; title = "Debian"; ObjectID = "ClT-6Q-5sn"; */
+"ClT-6Q-5sn.title" = "Debian";
+
+/* Class = "NSTextFieldCell"; title = "Success!"; ObjectID = "CpB-zL-Sag"; */
+"CpB-zL-Sag.title" = "Completato!";
+
+/* Class = "NSMenuItem"; title = "Kali"; ObjectID = "DJS-vr-iC0"; */
+"DJS-vr-iC0.title" = "Kali";
+
+/* Class = "NSTextFieldCell"; title = "Choose Destination:"; ObjectID = "JzD-IM-Mo0"; */
+"JzD-IM-Mo0.title" = "Seleziona Destinazione:";
+
+/* Class = "NSButtonCell"; title = "This ISO is based on a legacy version of Ubuntu"; ObjectID = "K4N-ZO-OI0"; */
+"K4N-ZO-OI0.title" = "Questa ISO ha codice più vecchio di Ubuntu 14.10";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "Piy-za-BZH"; */
+"Piy-za-BZH.title" = "Aggiorna";
+
+/* Class = "NSButtonCell"; title = "Skip the boot selection menu"; ObjectID = "RBA-Ti-vGI"; */
+"RBA-Ti-vGI.title" = "Salta il menu di selezione del boot";
+
+/* (No Commment) */
+"Tnc-ZF-mM8.title" = "Inizia Installatione";
+
+/* Class = "NSTabViewItem"; label = "Second"; ObjectID = "Zyc-ZH-ZTl"; */
+"Zyc-ZH-ZTl.label" = "Secondo";
+
+/* Class = "NSTextFieldCell"; title = "Distribution Family:"; ObjectID = "aOF-7O-fM8"; */
+"aOF-7O-fM8.title" = "Famiglia di Distribuzione:";
+
+/* Class = "NSTextFieldCell"; title = "USB Device Name"; ObjectID = "acy-rY-KEm"; */
+"acy-rY-KEm.title" = "Nome del Dispositivo USB";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "e20-PA-yfy"; */
+"e20-PA-yfy.title" = "AltreViste";
+
+/* Class = "NSTabViewItem"; label = "First"; ObjectID = "iID-fj-8Oj"; */
+"iID-fj-8Oj.label" = "Primo";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "lUE-9Y-ccg"; */
+"lUE-9Y-ccg.title" = "Successivo";
+

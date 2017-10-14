@@ -1,0 +1,33 @@
+/* (No Commment) */
+"9HT-f6-zfH.title" = "HFS+ formatierte Laufwerke akzeptieren";
+
+/* Class = "NSButtonCell"; title = "Accept HFS+ Formatted Drives"; ObjectID = "BIC-8x-10F"; */
+"BIC-8x-10F.title" = "HFS+ formatierte Laufwerke akzeptieren";
+
+/* Class = "NSButtonCell"; title = "Hide Enterprise Configuration File"; ObjectID = "CG7-vV-ura"; */
+"CG7-vV-ura.title" = "Enterprise-Konfigurationsdatei verstecken";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Mqp-7t-iHQ"; */
+"Mqp-7t-iHQ.title" = "Box???";
+
+/* Class = "NSButtonCell"; title = "Show Enterprise Sources (requires relaunch)"; ObjectID = "RH7-Fp-QFy"; */
+"RH7-Fp-QFy.title" = "Enterprise Quellen anzeigen (Neustart erforderlich)";
+
+/* Class = "NSTextFieldCell"; title = "Configuration:"; ObjectID = "UCE-cK-tdW"; */
+"UCE-cK-tdW.title" = "Konfiguration:";
+
+/* Class = "NSButtonCell"; title = "Periodically Clear Caches and Old ISO Downloads"; ObjectID = "XrG-IX-Jnc"; */
+"XrG-IX-Jnc.title" = "In regelmäßigen Abständen Zwischenspeicher und alte ISO-Downloads löschen";
+
+/* Class = "NSButtonCell"; title = "Accept Hard Drives"; ObjectID = "auA-Ob-KZq"; */
+"auA-Ob-KZq.title" = "Festplatten berücksichtigen";
+
+/* Class = "NSButtonCell"; title = "Clear Now"; ObjectID = "j9p-k1-kBV"; */
+"j9p-k1-kBV.title" = "Jetzt löschen";
+
+/* (No Commment) */
+"nPg-bg-bVL.title" = "Experimentell";
+
+/* Class = "NSTextFieldCell"; title = "Experimental:"; ObjectID = "v6c-3K-l9F"; */
+"v6c-3K-l9F.title" = "Experimentell:";
+

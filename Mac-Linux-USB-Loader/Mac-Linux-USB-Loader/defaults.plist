@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ShowEnterpriseSourcesPanel</key>
+	<false/>
+	<key>UserOnBetaUpdateChannel</key>
+	<false/>
+	<key>SUScheduledCheckInterval</key>
+	<integer>604800</integer>
+	<key>DefaultEnterpriseSourceLocation</key>
+	<string>Included With Application</string>
+	<key>PeriodicallyClearCaches</key>
+	<false/>
+	<key>UpdateMirrorListInterval</key>
+	<integer>0</integer>
+	<key>AcceptHFSDrives</key>
+	<false/>
+	<key>AcceptHardDrives</key>
+	<true/>
+	<key>HideConfigurationFile</key>
+	<true/>
+	<key>SimultaneousDownloadOperationsNumber</key>
+	<integer>4</integer>
+	<key>DefaultOperationUponISODownloadCompletion</key>
+	<integer>2</integer>
+</dict>
+</plist>

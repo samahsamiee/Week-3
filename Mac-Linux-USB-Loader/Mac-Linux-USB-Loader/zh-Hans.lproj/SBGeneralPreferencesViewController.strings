@@ -1,0 +1,33 @@
+/* (No Commment) */
+"9HT-f6-zfH.title" = "允许 HFS+ 格式设备";
+
+/* Class = "NSButtonCell"; title = "Accept HFS+ Formatted Drives"; ObjectID = "BIC-8x-10F"; */
+"BIC-8x-10F.title" = "允许 HFS+ 格式设备";
+
+/* Class = "NSButtonCell"; title = "Hide Enterprise Configuration File"; ObjectID = "CG7-vV-ura"; */
+"CG7-vV-ura.title" = "隐藏系统配置文件";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "Mqp-7t-iHQ"; */
+"Mqp-7t-iHQ.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Show Enterprise Sources (requires relaunch)"; ObjectID = "RH7-Fp-QFy"; */
+"RH7-Fp-QFy.title" = "显示安装源（需要重启）";
+
+/* Class = "NSTextFieldCell"; title = "Configuration:"; ObjectID = "UCE-cK-tdW"; */
+"UCE-cK-tdW.title" = "配置：";
+
+/* Class = "NSButtonCell"; title = "Periodically Clear Caches and Old ISO Downloads"; ObjectID = "XrG-IX-Jnc"; */
+"XrG-IX-Jnc.title" = "定期清除缓存和陈旧镜像";
+
+/* Class = "NSButtonCell"; title = "Accept Hard Drives"; ObjectID = "auA-Ob-KZq"; */
+"auA-Ob-KZq.title" = "允许硬盘";
+
+/* Class = "NSButtonCell"; title = "Clear Now"; ObjectID = "j9p-k1-kBV"; */
+"j9p-k1-kBV.title" = "立即清除";
+
+/* (No Commment) */
+"nPg-bg-bVL.title" = "实验性";
+
+/* Class = "NSTextFieldCell"; title = "Experimental:"; ObjectID = "v6c-3K-l9F"; */
+"v6c-3K-l9F.title" = "实验性：";
+

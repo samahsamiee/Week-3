@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3xc-5H-mwd"; */
+"3xc-5H-mwd.title" = "Text Cell";
+
+/* (No Commment) */
+"6Ho-5a-BD4.title" = "下载设置";
+
+/* Class = "NSButtonCell"; title = "Download This Distro"; ObjectID = "7le-Xf-L3s"; */
+"7le-Xf-L3s.title" = "开始下载";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9H6-8I-x31"; */
+"9H6-8I-x31.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Distribution Downloader"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "镜像下载器";
+
+/* Class = "NSButtonCell"; title = "View In-Progress Downloads"; ObjectID = "Hwd-V5-1q3"; */
+"Hwd-V5-1q3.title" = "查看正在下载的任务";
+
+/* Class = "NSButtonCell"; title = "Begin Download"; ObjectID = "Ie1-Jz-j1W"; */
+"Ie1-Jz-j1W.title" = "开始下载";
+
+/* Class = "NSTableColumn"; headerCell.title = "Current Version"; ObjectID = "JU5-E2-WAo"; */
+"JU5-E2-WAo.headerCell.title" = "当前版本";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "L03-sB-mO5"; */
+"L03-sB-mO5.title" = "Item 3";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MXN-UG-9v0"; */
+"MXN-UG-9v0.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "PGL-sf-a57"; */
+"PGL-sf-a57.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Bitness:"; ObjectID = "QpP-Zr-Q0G"; */
+"QpP-Zr-Q0G.title" = "Bitness:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "UMo-LO-E1T"; */
+"UMo-LO-E1T.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "YqC-fs-qkl"; */
+"YqC-fs-qkl.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "64-bit"; ObjectID = "a8S-i1-3Ey"; */
+"a8S-i1-3Ey.title" = "64位";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distribution Name"; ObjectID = "b0w-Mf-cZX"; */
+"b0w-Mf-cZX.headerCell.title" = "系统名称";
+
+/* Class = "NSMenuItem"; title = "32-bit"; ObjectID = "cHn-3b-vnv"; */
+"cHn-3b-vnv.title" = "32位";
+
+/* Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "cK3-rM-Ug9"; */
+"cK3-rM-Ug9.title" = "国家：";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "dxA-hL-HgN"; */
+"dxA-hL-HgN.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "More Information"; ObjectID = "e9B-4d-oSW"; */
+"e9B-4d-oSW.title" = "更多信息";
+
+/* Class = "NSTextFieldCell"; title = "Something.iso"; ObjectID = "gKI-d9-ORr"; */
+"gKI-d9-ORr.title" = "镜像.iso";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oCQ-zG-why"; */
+"oCQ-zG-why.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "oQd-aW-Z5Q"; */
+"oQd-aW-Z5Q.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "View in Finder"; ObjectID = "zHc-Qf-ZKX"; */
+"zHc-Qf-ZKX.title" = "在Finder中显示";
+

@@ -1,0 +1,303 @@
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Alle nach vorne bringen";
+
+/* Class = "NSMenuItem"; title = "Open Tool"; ObjectID = "5DD-hP-clY"; */
+"5DD-hP-clY.title" = "Öffnen";
+
+/* Class = "NSMenuItem"; title = "Distribution Downloader"; ObjectID = "5S3-fG-xVw"; */
+"5S3-fG-xVw.title" = "Distributions-Downloader";
+
+/* Class = "NSButtonCell"; title = "Report Bug"; ObjectID = "9zF-bC-eXK"; */
+"9zF-bC-eXK.title" = "Bug melden";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Fenster";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "An Dock anheften";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Fenster";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "Mac Linux USB Loader"; ObjectID = "56"; */
+"56.title" = "Mac Linux USB Loader";
+
+/* Class = "NSMenu"; title = "Mac Linux USB Loader"; ObjectID = "57"; */
+"57.title" = "Mac Linux USB Loader";
+
+/* Class = "NSMenuItem"; title = "About Mac Linux USB Loader"; ObjectID = "58"; */
+"58.title" = "Über Mac Linux USB Loader";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "Öffnen...";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Schließen";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Datei";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "Neu";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Datei";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "Letzte öffnen";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "Letzte öffnen";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "Einträge löschen";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Einstellungen...";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Dienste";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Dienste";
+
+/* Class = "NSMenuItem"; title = "Hide Mac Linux USB Loader"; ObjectID = "134"; */
+"134.title" = "Mac Linux USB Loader in den Hintergrund";
+
+/* Class = "NSMenuItem"; title = "Quit Mac Linux USB Loader"; ObjectID = "136"; */
+"136.title" = "Mac Linux USB Loader beenden";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Andere in den Hintergrund";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Alle anzeigen";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; */
+"195.title" = "Sprachausgabe beenden";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; */
+"196.title" = "Sprachausgabe starten";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Kopieren";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Alle auswählen";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "Ausschneiden";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; */
+"200.title" = "Rechtschreibung und Grammatik";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; */
+"201.title" = "Dokument jetzt überprüfen";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "Löschen";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "Einfügen";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; */
+"204.title" = "Rechtschreibung und Grammatik anzeigen";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Editieren";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "Widerrufen";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; */
+"208.title" = "Weitersuchen (vorwärts)";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; */
+"209.title" = "Suche&hellip;";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; */
+"210.title" = "Auswahl anzeigen";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; */
+"211.title" = "Sprachausgabe";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "212"; */
+"212.title" = "Sprachausgabe";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; */
+"213.title" = "Weitersuchen (rückwärts)";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "Wiederholen";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; */
+"216.title" = "Rechtschreibung und Grammatik";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Editieren";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; */
+"218.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; */
+"219.title" = "Während der Texteingabe prüfen";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "220"; */
+"220.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "221"; */
+"221.title" = "Auswahl suchen";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoomen";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "295"; */
+"295.title" = "Anzeige";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "296"; */
+"296.title" = "Anzeige";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "297"; */
+"297.title" = "Werkzeugleiste anzeigen";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "298"; */
+"298.title" = "Werkzeugleiste anpassen&hellip;";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; */
+"346.title" = "Rechtschreib- und Grammatikprüfung";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; */
+"348.title" = "Ersetzungen";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; */
+"349.title" = "Ersetzungen";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; */
+"350.title" = "Intelligentes Kopieren/Einsetzen";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; */
+"351.title" = "Intelligente Anführungszeichen";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; */
+"354.title" = "Intelligente Links";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "449"; */
+"449.title" = "Transformationen";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "450"; */
+"450.title" = "Transformationen";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "451"; */
+"451.title" = "Großbuchstaben";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "452"; */
+"452.title" = "Kleinbuchstaben";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "453"; */
+"453.title" = "Großschreiben";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "457"; */
+"457.title" = "Intelligente Bindestriche";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "458"; */
+"458.title" = "Ersetzungen einblenden";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; */
+"462.title" = "Text ersetzen";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "465"; */
+"465.title" = "Während der Texteingabe prüfen";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "470"; */
+"470.title" = "Einsetzen und Stil anpassen";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Hilfe";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "492"; */
+"492.title" = "Hilfe";
+
+/* Class = "NSMenuItem"; title = "Mac Linux USB Loader Help"; ObjectID = "493"; */
+"493.title" = "Mac Linux USB Loader Hilfe";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "532"; */
+"532.title" = "Suchen und Ersetzen";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "Ixf-5n-e5Q"; */
+"Ixf-5n-e5Q.title" = "Nach Updates suchen...";
+
+/* Class = "NSButtonCell"; title = "Show Project Website"; ObjectID = "LhO-Jz-UPe"; */
+"LhO-Jz-UPe.title" = "Projekt-Website anzeigen";
+
+/* Class = "NSTextFieldCell"; title = "Mac Linux USB Loader"; ObjectID = "PbZ-Px-5X8"; */
+"PbZ-Px-5X8.title" = "Mac Linux USB Loader";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "Q1v-1v-FkZ"; */
+"Q1v-1v-FkZ.title" = "USB-Laufwerk einrichten";
+
+/* Class = "NSMenuItem"; title = "Registered Devices"; ObjectID = "Rct-bv-4eE"; */
+"Rct-bv-4eE.title" = "Registrierte Geräte";
+
+/* Class = "NSTextFieldCell"; title = "Version 0.0.0 (000)"; ObjectID = "SZ2-R9-aee"; */
+"SZ2-R9-aee.title" = "Version 0.0.0 (000)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XYg-e8-VkS"; */
+"XYg-e8-VkS.title" = "Text Cell???";
+
+/* Class = "NSMenuItem"; title = "Open Tool"; ObjectID = "YZF-Y6-wHH"; */
+"YZF-Y6-wHH.title" = "Tool öffnen";
+
+/* Class = "NSMenu"; title = "Registered Devices"; ObjectID = "bCd-j9-j8y"; */
+"bCd-j9-j8y.title" = "Registrierte Geräte";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "ceI-01-83m"; */
+"ceI-01-83m.title" = "Tool öffnen";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "d8m-Or-MfF"; */
+"d8m-Or-MfF.title" = "Tool öffnen";
+
+/* Class = "NSMenuItem"; title = "Persistence Manager"; ObjectID = "dft-Op-QXY"; */
+"dft-Op-QXY.title" = "Persistenz-Manager";
+
+/* Class = "NSWindow"; title = "Mac Linux USB Loader"; ObjectID = "eVZ-OT-8Zw"; */
+"eVZ-OT-8Zw.title" = "Mac Linux USB Loader";
+
+/* Class = "NSMenuItem"; title = "Persistence Manager"; ObjectID = "exP-uc-VcW"; */
+"exP-uc-VcW.title" = "Persistenz Manager";
+
+/* Class = "NSButtonCell"; title = "More Options"; ObjectID = "f5Z-jQ-9Ok"; */
+"f5Z-jQ-9Ok.title" = "Weitere Optionen";
+
+/* Class = "NSMenuItem"; title = "Donate..."; ObjectID = "fjF-O3-g5i"; */
+"fjF-O3-g5i.title" = "Spenden...";
+
+/* Class = "NSMenuItem"; title = "Show Project Homepage"; ObjectID = "iNg-8W-mXB"; */
+"iNg-8W-mXB.title" = "Projekt-Homepage anzeigen";
+
+/* Class = "NSMenuItem"; title = "Create New Live USB"; ObjectID = "kO5-Pl-dr9"; */
+"kO5-Pl-dr9.title" = "Neues Live USB-Laufwerk erstellen";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "kqZ-Ze-RYr"; */
+"kqZ-Ze-RYr.title" = "Tool öffnen";
+
+/* Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "oSM-TE-Nol"; */
+"oSM-TE-Nol.title" = "Startansicht";
+
+/* (No Commment) */
+"oZ5-WW-zYO.title" = "Schließen";
+
+/* Class = "NSMenuItem"; title = "Report Bug"; ObjectID = "sDa-Rj-9rb"; */
+"sDa-Rj-9rb.title" = "Bug melden";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "t7M-Sl-0ab"; */
+"t7M-Sl-0ab.title" = "USB-Laufwerk einrichten";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "vSy-lw-pcI"; */
+"vSy-lw-pcI.title" = "USB-Laufwerk einrichten";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "z0e-73-0dd"; */
+"z0e-73-0dd.title" = "Table View Cell???";
+

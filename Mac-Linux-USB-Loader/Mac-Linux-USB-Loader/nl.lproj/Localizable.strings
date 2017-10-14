@@ -1,0 +1,195 @@
+/* No comment provided by engineer. */
+"Are you sure that you want to cancel this download operation?" = "Ben je zeker dat je deze downloadoperatie wilt annuleren?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear caches?" = "Ben je zeker dat je de caches wilt leegmaken?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to enable clearing caches?" = "Ben je zeker dat je het leegmaken van caches wilt aanzetten?";
+
+/* No comment provided by engineer. */
+"Can't download this distribution." = "Kan deze distributie niet downloaden.";
+
+/* No comment provided by engineer. */
+"Can't install to this USB device." = "Kan niet installeren op dit USB-apparaat.";
+
+/* No comment provided by engineer. */
+"Cannot use this USB as a startup disk." = "Kan deze USB niet als opstartschijf gebruiken.";
+
+/* No comment provided by engineer. */
+"Clear All" = "Wis Alles";
+
+/* No comment provided by engineer. */
+"Couldn't get security scoped bookmarks." = "Kon beveiligings-gerelateerde bladwijzers niet verkrijgen";
+
+/* No comment provided by engineer. */
+"Create Live USB" = "Maak Live USB";
+
+/* No comment provided by engineer. */
+"Creating persistence file..." = "Persistence-bestand aanmaken...";
+
+/* No comment provided by engineer. */
+"Creating virtual loopback filesystem..." = "Virtual loopback bestandssysteem aanmaken...";
+
+/* (No Commment) */
+"Current Version" = "Huidige Versie";
+
+/* No comment provided by engineer. */
+"Distribution Downloader" = "Distributie Downloader";
+
+/* (No Commment) */
+"Distribution Name" = "Distributienaam";
+
+/* No comment provided by engineer. */
+"Done creating persistence." = "Gereed met het aanmaken van persistence.";
+
+/* No comment provided by engineer. */
+"Downloader" = "Downloader";
+
+/* No comment provided by engineer. */
+"Enterprise" = "Enterprise";
+
+/* No comment provided by engineer. */
+"Finished Installing: " = "Installatie beëndigd: ";
+
+/* No comment provided by engineer. */
+"General" = "Algemeen";
+
+/* No comment provided by engineer. */
+"Grant Access" = "Toegang Verschaffen";
+
+/* No comment provided by engineer. */
+"Invalid location name entered." = "Ongeldige locatienaam ingevoerd";
+
+/* No comment provided by engineer. */
+"Mac Linux USB Loader cannot download the mirror lists because you are not connected to the Internet." = "Mac Linux USB Loader kan de mirrorlijsten niet downloaden omdat je niet met het internet verbonden bent.";
+
+/* No comment provided by engineer. */
+"No" = "Neen";
+
+/* No comment provided by engineer. */
+"No Enterprise source file selected." = "Geen Enterprise bronbestand geselecteerd.";
+
+/* No comment provided by engineer. */
+"No Registered Devices" = "Geen Geregistreerde Apparaten";
+
+/* No comment provided by engineer. */
+"No USB drive selected." = "Geen USB-station geselecteerd.";
+
+/* No comment provided by engineer. */
+"No information about this distribution was found in your language." = "Geen informatie over deze distributie was gevonden in jouw taal.";
+
+/* No comment provided by engineer. */
+"No information on this distribution could be found due to a network problem. You might not be connected to the Internet." = "Geen informatie over deze distributie kon gevonden worden door een netwerkfout. Je bent misschien niet verbonden met het internet.";
+
+/* No comment provided by engineer. */
+"No network connection." = "Geen netwerkverbinding.";
+
+/* No comment provided by engineer. */
+"No source location name entered." = "Geen bronlocatienaam ingevoerd.";
+
+/* No comment provided by engineer. */
+"No source location path entered." = "Geen bronlocatiepad ingevoerd.";
+
+/* No comment provided by engineer. */
+"No source location version entered." = "Geen bronlocatieversie ingevoerd.";
+
+/* No comment provided by engineer. */
+"Not enough free space" = "Niet genoeg vrije ruimte";
+
+/* No comment provided by engineer. */
+"Okay" = "Oké";
+
+/* No comment provided by engineer. */
+"Other" = "Overige";
+
+/* No comment provided by engineer. */
+"Persistence Manager" = "Persistence Manager";
+
+/* No comment provided by engineer. */
+"Please select the directory containing Enterprise files." = "Gelieve de map met de Enterprise bestanden te selecteren.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Voorkeuren";
+
+/* No comment provided by engineer. */
+"Setup USB Device" = "USB-Apparaat Instellen";
+
+/* No comment provided by engineer. */
+"The USB device that you have selected cannot be accessed because the system denied access to the resource." = "Het USB-aparaat dat je hebt geselecteerd kan niet bereikt worden omdat het systeem toegang geweigerd heeft tot de USB.";
+
+/* No comment provided by engineer. */
+"The USB drive that you have selected does not have enough free space. At least %@ of space is required." = "Het USB-station dat je geselecteerd hebt heeft niet genoeg vrije ruimte. Ten minste %@ ruimte is vereist.";
+
+/* No comment provided by engineer. */
+"The installation failed because the Enterprise source that you have selected is either incomplete or missing." = "De installatie is mislukt omdat de bron die je geselecteerd hebt ofwel incompleet ofwel onbestaand is.";
+
+/* No comment provided by engineer. */
+"The name that you have entered for this Enterprise source already exists. Please enter a different name." = "De naam die je ingegeven hebt voor deze Enterprise bron bestaat al. Voer a.u.b. een andere naam in.";
+
+/* No comment provided by engineer. */
+"The persistence file has been created. You should be able to boot your selected Linux distribution with persistence on this USB drive now." = "Het persistence bestand is aangemaakt. Je zou nu in staat moeten zijn om je geselecteerde Linux distributie op te starten met persistence vanaf dit USB-station.";
+
+/* No comment provided by engineer. */
+"The source that you entered is not valid." = "De bron die je ingevoerd hebt is niet geldig.";
+
+/* No comment provided by engineer. */
+"The source that you have selected is not valid because one or more of the Enterprise binaries are missing." = "De bron die je hebt geselecteerd is niet geldig omdat één of meer van de Enterprise binaries ontbreken.";
+
+/* No comment provided by engineer. */
+"This USB drive cannot be used as a startup disk because OS X only recognizes startup disks with an HFS+ file system." = "Dit USB-station kan niet gebruikt worden als opstartschijf omdat OS X alleen opstartschijven met een HFS+ bestandssysteem herkent.";
+
+/* No comment provided by engineer. */
+"This can be useful if you want to conserve your disk space, but it will delete all of your downloaded ISO files and reset your download mirrors." = "Dit kan handig zijn als je schijfruimte wilt bewaren, maar het zal al je gedownloade ISO bestanden verwijderen en je gedownloade mirrors resetten.";
+
+/* No comment provided by engineer. */
+"This operation cannot be undone." = "Deze operatie kan niet ongedaan gemaakt worden.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted because it is included with Mac Linux USB Loader." = "Deze bron kan niet verwijderd worden omdat het meegeleverd wordt bij Mac Linux USB Loader.";
+
+/* No comment provided by engineer. */
+"This source can't be deleted." = "Deze bron kan niet verwijderd worden.";
+
+/* No comment provided by engineer. */
+"This will clear your stored Enterprise sources, downloaded ISO files, and cached download mirror information every two months." = "Dit zal je bewaarde Enterprise bronnen, gedownloade ISO bestanden en gecachede download mirror informatie elke twee maanden verwijderen.";
+
+/* No comment provided by engineer. */
+"To authorize Mac Linux USB Loader to access your USB drive, please click Grant Access below." = "Om Mac Linux USB Loader toegang te verlenen tot jouw USB-station, klik je hieronder op Toegang Verschaffen.";
+
+/* No comment provided by engineer. */
+"Updates" = "Updates";
+
+/* No comment provided by engineer. */
+"Version" = "Versie";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Versie %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You are now ready to use your USB drive!" = "Je bent nu klaar om je USB-station te gebruiken!";
+
+/* No comment provided by engineer. */
+"You cannot download this distribution because Mac Linux USB Loader has not finished downloading its list of mirrors." = "Je kan deze distributie niet downloaden omdat Mac Linux USB Loader nog niet klaar is met het downloaden van de lijst van spiegelservers.";
+
+/* (No Commment) */
+"You cannot download this distribution because Mac USB Linux Loader has not finished downloading its list of mirrors." = "Je kan deze distributie nog niet downloaden omdat Mac Linux USB Loader nog niet klaar is met de spiegelserverlijst te downloaden.";
+
+/* No comment provided by engineer. */
+"You need to enter a name for this Enterprise installation source." = "Je moet een naam invoeren voor deze Enterprise installatiebron";
+
+/* No comment provided by engineer. */
+"You need to enter a path to a folder containing a valid set of Enterprise binaries." = "Je moet een pad naar een map invoeren die een geldige set van Enterprise binaries bevat.";
+
+/* No comment provided by engineer. */
+"You need to enter the version of this Enterprise installation source." = "Je moet de versie ingeven van deze Enterprise installatiebron.";
+
+/* No comment provided by engineer. */
+"You need to select the USB drive to install to." = "Je moet het USB-station selecteren om naar te installeren.";
+
+/* No comment provided by engineer. */
+"You need to select the source of the Enterprise binaries that will be copied to this USB drive." = "Je moet de bron selecteren van de enterprise binaries die gekopieërd zullen worden naar dit USB-station.";
+

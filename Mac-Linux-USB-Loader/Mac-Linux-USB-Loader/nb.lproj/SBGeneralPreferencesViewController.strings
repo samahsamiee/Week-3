@@ -1,0 +1,33 @@
+/* (No Commment) */
+"9HT-f6-zfH.title" = "Akksepter HFS+ Formatert Driver";
+
+/* Class = "NSButtonCell"; title = "Accept HFS+ Formatted Drives"; ObjectID = "BIC-8x-10F"; */
+"BIC-8x-10F.title" = "Akksepter HFS+ Formatert Driver";
+
+/* Class = "NSButtonCell"; title = "Hide Enterprise Configuration File"; ObjectID = "CG7-vV-ura"; */
+"CG7-vV-ura.title" = "Gjem Enterprise Konfigurasjon Fil";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Mqp-7t-iHQ"; */
+"Mqp-7t-iHQ.title" = "Boks";
+
+/* Class = "NSButtonCell"; title = "Show Enterprise Sources (requires relaunch)"; ObjectID = "RH7-Fp-QFy"; */
+"RH7-Fp-QFy.title" = "Hvis Enterprise Kilder (krever gjennoppstart)";
+
+/* Class = "NSTextFieldCell"; title = "Configuration:"; ObjectID = "UCE-cK-tdW"; */
+"UCE-cK-tdW.title" = "Konfigurasjon:";
+
+/* Class = "NSButtonCell"; title = "Periodically Clear Caches and Old ISO Downloads"; ObjectID = "XrG-IX-Jnc"; */
+"XrG-IX-Jnc.title" = "Periodisk Tøm Ut Cacher og Gamle ISO Nedlastninger";
+
+/* Class = "NSButtonCell"; title = "Accept Hard Drives"; ObjectID = "auA-Ob-KZq"; */
+"auA-Ob-KZq.title" = "Akksepter Harddisker";
+
+/* Class = "NSButtonCell"; title = "Clear Now"; ObjectID = "j9p-k1-kBV"; */
+"j9p-k1-kBV.title" = "Fjern Nå";
+
+/* (No Commment) */
+"nPg-bg-bVL.title" = "Eksperimental";
+
+/* Class = "NSTextFieldCell"; title = "Experimental:"; ObjectID = "v6c-3K-l9F"; */
+"v6c-3K-l9F.title" = "Eksperimental:";
+

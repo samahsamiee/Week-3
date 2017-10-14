@@ -1,0 +1,48 @@
+/* Class = "NSMenuItem"; title = "weekly"; ObjectID = "4Be-1e-K5t"; */
+"4Be-1e-K5t.title" = "Ukentlig";
+
+/* Class = "NSMenuItem"; title = "once per application launch"; ObjectID = "8vt-ts-25C"; */
+"8vt-ts-25C.title" = "En Gang Per Aplikasjons oppstart";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9a4-XT-p28"; */
+"9a4-XT-p28.title" = "AndreSynspunkt";
+
+/* Class = "NSMenuItem"; title = "yearly"; ObjectID = "AVN-H6-ilo"; */
+"AVN-H6-ilo.title" = "Årlig";
+
+/* Class = "NSButtonCell"; title = "Open the downloaded ISO file"; ObjectID = "DEP-br-4VI"; */
+"DEP-br-4VI.title" = "Åpne den nedlastet ISO filen";
+
+/* Class = "NSTextFieldCell"; title = "Update mirror lists:"; ObjectID = "DK4-Bn-Yrx"; */
+"DK4-Bn-Yrx.title" = "Oppdater speil listene:";
+
+/* Class = "NSButtonCell"; title = "Reveal in Finder"; ObjectID = "KgJ-iP-2yG"; */
+"KgJ-iP-2yG.title" = "Hvis i Finder";
+
+/* (No Commment) */
+"U0W-FU-ZGT.title" = "Tillat opp til";
+
+/* (No Commment) */
+"WoO-Ht-kfm.title" = "Spør hver gang";
+
+/* (No Commment) */
+"aFy-72-3os.title" = "Samtidlige nedlastnings operasjoner.";
+
+/* Class = "NSMenuItem"; title = "monthly"; ObjectID = "cGw-9o-3M3"; */
+"cGw-9o-3M3.title" = "Månedlig";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pL0-W8-rfZ"; */
+"pL0-W8-rfZ.title" = "Boks";
+
+/* Class = "NSTextFieldCell"; title = "When a download has completed:"; ObjectID = "pf6-Co-bXh"; */
+"pf6-Co-bXh.title" = "Når en nedlastning er fullført:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "pwa-Ux-7V3"; */
+"pwa-Ux-7V3.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Do nothing"; ObjectID = "qe4-3B-RSI"; */
+"qe4-3B-RSI.title" = "Gjør Ingenting";
+
+/* Class = "NSMenuItem"; title = "daily"; ObjectID = "vST-aP-7d3"; */
+"vST-aP-7d3.title" = "Daglig";
+

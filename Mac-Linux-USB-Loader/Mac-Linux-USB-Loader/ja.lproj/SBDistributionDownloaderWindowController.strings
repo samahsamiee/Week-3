@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3xc-5H-mwd"; */
+"3xc-5H-mwd.title" = "テキストセル";
+
+/* Class = "NSBox"; title = "Download Settings"; ObjectID = "6Ho-5a-BD4"; */
+"6Ho-5a-BD4.title" = "ダウンロードの設定";
+
+/* Class = "NSButtonCell"; title = "Download This Distro"; ObjectID = "7le-Xf-L3s"; */
+"7le-Xf-L3s.title" = "このディストリビューションをダウンロード";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9H6-8I-x31"; */
+"9H6-8I-x31.title" = "テキストセル";
+
+/* Class = "NSWindow"; title = "Distribution Downloader"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "ディストリビューションダウンローダー";
+
+/* Class = "NSButtonCell"; title = "View In-Progress Downloads"; ObjectID = "Hwd-V5-1q3"; */
+"Hwd-V5-1q3.title" = "進行中のダウンロードを表示";
+
+/* Class = "NSButtonCell"; title = "Begin Download"; ObjectID = "Ie1-Jz-j1W"; */
+"Ie1-Jz-j1W.title" = "ダウンロードを開始";
+
+/* Class = "NSTableColumn"; headerCell.title = "Current Version"; ObjectID = "JU5-E2-WAo"; */
+"JU5-E2-WAo.headerCell.title" = "現在のバージョン";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "L03-sB-mO5"; */
+"L03-sB-mO5.title" = "項目3";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MXN-UG-9v0"; */
+"MXN-UG-9v0.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "PGL-sf-a57"; */
+"PGL-sf-a57.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Bitness:"; ObjectID = "QpP-Zr-Q0G"; */
+"QpP-Zr-Q0G.title" = "ビット数:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "UMo-LO-E1T"; */
+"UMo-LO-E1T.title" = "項目1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "YqC-fs-qkl"; */
+"YqC-fs-qkl.title" = "項目2";
+
+/* Class = "NSMenuItem"; title = "64-bit"; ObjectID = "a8S-i1-3Ey"; */
+"a8S-i1-3Ey.title" = "64bit";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distribution Name"; ObjectID = "b0w-Mf-cZX"; */
+"b0w-Mf-cZX.headerCell.title" = "ディストリビューション名";
+
+/* Class = "NSMenuItem"; title = "32-bit"; ObjectID = "cHn-3b-vnv"; */
+"cHn-3b-vnv.title" = "32bit";
+
+/* Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "cK3-rM-Ug9"; */
+"cK3-rM-Ug9.title" = "国:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "dxA-hL-HgN"; */
+"dxA-hL-HgN.title" = "ウィンドウ";
+
+/* Class = "NSButtonCell"; title = "More Information"; ObjectID = "e9B-4d-oSW"; */
+"e9B-4d-oSW.title" = "他の情報";
+
+/* Class = "NSTextFieldCell"; title = "Something.iso"; ObjectID = "gKI-d9-ORr"; */
+"gKI-d9-ORr.title" = "Something.iso";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oCQ-zG-why"; */
+"oCQ-zG-why.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "oQd-aW-Z5Q"; */
+"oQd-aW-Z5Q.title" = "閉じる";
+
+/* Class = "NSMenuItem"; title = "View in Finder"; ObjectID = "zHc-Qf-ZKX"; */
+"zHc-Qf-ZKX.title" = "Finder で表示";
+

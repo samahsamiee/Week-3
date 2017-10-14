@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "Idq-wM-aWT"; */
+"Idq-wM-aWT.title" = "立刻检查";
+
+/* Class = "NSTextFieldCell"; title = "Update Channel:"; ObjectID = "Zrd-Qz-uAS"; */
+"Zrd-Qz-uAS.title" = "更新来源：";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "cvz-bF-QuY"; */
+"cvz-bF-QuY.title" = "每月";
+
+/* Class = "NSMenuItem"; title = "Beta"; ObjectID = "evE-1O-uww"; */
+"evE-1O-uww.title" = "测试版";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "gnV-Vq-dhb"; */
+"gnV-Vq-dhb.title" = "每周";
+
+/* Class = "NSButtonCell"; title = "Automatically Check for Updates"; ObjectID = "kjC-fK-tIu"; */
+"kjC-fK-tIu.title" = "自动检查更新";
+
+/* Class = "NSTextFieldCell"; title = "Update Check Interval:"; ObjectID = "neh-34-5Rp"; */
+"neh-34-5Rp.title" = "检查间隔：";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "rVv-ZL-27X"; */
+"rVv-ZL-27X.title" = "Hourly";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "slG-Ox-uWY"; */
+"slG-Ox-uWY.title" = "Daily";
+
+/* Class = "NSMenuItem"; title = "Stable"; ObjectID = "zL7-bw-ada"; */
+"zL7-bw-ada.title" = "Stable";
+

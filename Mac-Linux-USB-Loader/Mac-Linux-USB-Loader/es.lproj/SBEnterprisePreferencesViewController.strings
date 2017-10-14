@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "0kk-YU-L6Y"; */
+"0kk-YU-L6Y.title" = "Nombre:";
+
+/* Class = "NSTextFieldCell"; title = "From here you can select which Enterprise installation you wish to use. You may use the version shipping with this version of Mac Linux USB Loader or a custom version."; ObjectID = "4JQ-lJ-RBO"; */
+"4JQ-lJ-RBO.title" = "Desde aquí puede seleccionar qué instalación de Enterprise le gustaría usar. Hay la posibilidad de usar la versión incluida en esta versión de Mac Linux USB Loader o una versión personalizada.";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "6Ws-MU-uUV"; */
+"6Ws-MU-uUV.title" = "Versión:";
+
+/* Class = "NSTextFieldCell"; title = "Enterprise Source"; ObjectID = "If0-6N-wdf"; */
+"If0-6N-wdf.title" = "Fuente de Enterprise";
+
+/* Class = "NSButtonCell"; title = "Update Settings"; ObjectID = "Nno-Gw-eVG"; */
+"Nno-Gw-eVG.title" = "Actualizar la configuración";
+
+/* Class = "NSTableColumn"; headerCell.title = "Installation Name"; ObjectID = "b3F-bP-GJw"; */
+"b3F-bP-GJw.headerCell.title" = "Nombre de la Instalación";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "cRe-PI-Km1"; */
+"cRe-PI-Km1.headerCell.title" = "Versión";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "dCs-R3-PHe"; */
+"dCs-R3-PHe.title" = "Añadir";
+
+/* Class = "NSBox"; title = "Setup Options"; ObjectID = "g6S-hW-I9i"; */
+"g6S-hW-I9i.title" = "Configurar Opciones";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nq4-qd-E2v"; */
+"nq4-qd-E2v.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tdk-Tr-KwR"; */
+"tdk-Tr-KwR.title" = "Celda de Texto";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "u1p-0P-YCC"; */
+"u1p-0P-YCC.title" = "Buscar";
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "uA0-we-3Q9"; */
+"uA0-we-3Q9.title" = "Camino:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "x6C-Jq-hjM"; */
+"x6C-Jq-hjM.title" = "Celda de Texto";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "yL6-cn-HFJ"; */
+"yL6-cn-HFJ.title" = "Ventana";
+

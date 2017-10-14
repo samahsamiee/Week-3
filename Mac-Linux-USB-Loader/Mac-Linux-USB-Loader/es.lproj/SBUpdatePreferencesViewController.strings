@@ -1,0 +1,33 @@
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "Idq-wM-aWT"; */
+"Idq-wM-aWT.title" = "Comprobar ahora";
+
+/* Class = "NSTextFieldCell"; title = "Update Channel:"; ObjectID = "Zrd-Qz-uAS"; */
+"Zrd-Qz-uAS.title" = "Actualizar canal";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "cvz-bF-QuY"; */
+"cvz-bF-QuY.title" = "Cada mes";
+
+/* Class = "NSMenuItem"; title = "Beta"; ObjectID = "evE-1O-uww"; */
+"evE-1O-uww.title" = "Beta";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "gnV-Vq-dhb"; */
+"gnV-Vq-dhb.title" = "Cada semana";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hEu-HU-gLl"; */
+"hEu-HU-gLl.title" = "Caja";
+
+/* Class = "NSButtonCell"; title = "Automatically Check for Updates"; ObjectID = "kjC-fK-tIu"; */
+"kjC-fK-tIu.title" = "Buscar actualizaciones automáticamente";
+
+/* Class = "NSTextFieldCell"; title = "Update Check Interval:"; ObjectID = "neh-34-5Rp"; */
+"neh-34-5Rp.title" = "Comprobar actualizaciones:";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "rVv-ZL-27X"; */
+"rVv-ZL-27X.title" = "Cada hora";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "slG-Ox-uWY"; */
+"slG-Ox-uWY.title" = "Cada día";
+
+/* Class = "NSMenuItem"; title = "Stable"; ObjectID = "zL7-bw-ada"; */
+"zL7-bw-ada.title" = "Estable";
+

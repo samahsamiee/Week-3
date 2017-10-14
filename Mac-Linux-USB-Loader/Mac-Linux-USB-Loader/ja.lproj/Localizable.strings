@@ -1,0 +1,195 @@
+/* No comment provided by engineer. */
+"Are you sure that you want to cancel this download operation?" = "このダウンロードを本当にキャンセルしますか？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear caches?" = "本当にキャッシュを削除しますか？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to enable clearing caches?" = "本当にキャッシュ削除を有効にしますか？";
+
+/* No comment provided by engineer. */
+"Can't download this distribution." = "このディストリビューションはダウンロードできません";
+
+/* No comment provided by engineer. */
+"Can't install to this USB device." = "このUSBデバイスにインストールすることはできません";
+
+/* No comment provided by engineer. */
+"Cannot use this USB as a startup disk." = "このUSBデバイスを起動ディスクとして使用することはできません";
+
+/* No comment provided by engineer. */
+"Clear All" = "すべて消去";
+
+/* No comment provided by engineer. */
+"Couldn't get security scoped bookmarks." = "security-scoped bookmarkを取得できませんでした。";
+
+/* No comment provided by engineer. */
+"Create Live USB" = "Live USBを作成";
+
+/* No comment provided by engineer. */
+"Creating persistence file..." = "保存領域のファイルを作成しています...";
+
+/* No comment provided by engineer. */
+"Creating virtual loopback filesystem..." = "仮想ループバックファイルシステムを作成しています...";
+
+/* (No Commment) */
+"Current Version" = "現在のバージョン";
+
+/* No comment provided by engineer. */
+"Distribution Downloader" = "ディストリビューションダウンローダー";
+
+/* (No Commment) */
+"Distribution Name" = "ディストリビューション名";
+
+/* No comment provided by engineer. */
+"Done creating persistence." = "保存領域の作成が完了しました";
+
+/* No comment provided by engineer. */
+"Downloader" = "ダウンローダー";
+
+/* No comment provided by engineer. */
+"Enterprise" = "Enterprise";
+
+/* No comment provided by engineer. */
+"Finished Installing: " = "終了したインストール: ";
+
+/* No comment provided by engineer. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Grant Access" = "アクセス権を付与";
+
+/* No comment provided by engineer. */
+"Invalid location name entered." = "入力されたロケーション名は無効です";
+
+/* No comment provided by engineer. */
+"Mac Linux USB Loader cannot download the mirror lists because you are not connected to the Internet." = "インターネットに接続されていないため、Mac Linux USB Loader はミラーリストをダウンロードできませんでした。";
+
+/* No comment provided by engineer. */
+"No" = "いいえ";
+
+/* No comment provided by engineer. */
+"No Enterprise source file selected." = "Enterpriseのソースファイルが選択されていません";
+
+/* No comment provided by engineer. */
+"No Registered Devices" = "登録されているドライブがありません";
+
+/* No comment provided by engineer. */
+"No USB drive selected." = "USBドライブが選択されていません";
+
+/* No comment provided by engineer. */
+"No information about this distribution was found in your language." = "この言語においてこのディストリビューションに関する詳しい情報が見つかりませんでした";
+
+/* No comment provided by engineer. */
+"No information on this distribution could be found due to a network problem. You might not be connected to the Internet." = "ネットワークに関する問題のため、このディストリビューションの情報を探すことが出来ませんでした。";
+
+/* No comment provided by engineer. */
+"No network connection." = "ネットワーク接続がありません";
+
+/* No comment provided by engineer. */
+"No source location name entered." = "ソースの場所ロケーション名が入力されていません";
+
+/* No comment provided by engineer. */
+"No source location path entered." = "ソースのロケーションパスが入力されていません";
+
+/* No comment provided by engineer. */
+"No source location version entered." = "ソースのロケーションバージョンが入力されていません";
+
+/* No comment provided by engineer. */
+"Not enough free space" = "十分な空き容量がありません";
+
+/* No comment provided by engineer. */
+"Okay" = "OK";
+
+/* No comment provided by engineer. */
+"Perform Installation" = "インストールを実行";
+
+/* No comment provided by engineer. */
+"Persistence Manager" = "保存領域マネージャー";
+
+/* No comment provided by engineer. */
+"Please select the directory containing Enterprise files." = "Enterpriseのファイルが含まれているディレクトリーを選択してください。";
+
+/* No comment provided by engineer. */
+"Preferences" = "環境設定";
+
+/* No comment provided by engineer. */
+"Setup USB Device" = "USBデバイスの設定";
+
+/* No comment provided by engineer. */
+"The USB device that you have selected cannot be accessed because the system denied access to the resource." = "システムがリソースへのアクセスを拒否しているため選択したUSBデバイスにアクセスできませんでした。";
+
+/* No comment provided by engineer. */
+"The USB drive that you have selected does not have enough free space. At least %@ of space is required." = "選択したUSBドライブは十分な空き容量がありません。少なくとも容量の%@は必要です。";
+
+/* No comment provided by engineer. */
+"The installation failed because the Enterprise source that you have selected is either incomplete or missing." = "選択したEnterpriseのソースが不完全かあるいは存在しないためインストールに失敗しました";
+
+/* No comment provided by engineer. */
+"The name that you have entered for this Enterprise source already exists. Please enter a different name." = "入力したEnterpriseのソース名はすでに存在しています。違う名前を入力してください。";
+
+/* No comment provided by engineer. */
+"The persistence file has been created. You should be able to boot your selected Linux distribution with persistence on this USB drive now." = "保存領域ファイルが作成されました。選択したLinuxディストリビューションが保存領域でUSBから起動できるようにすべきでしょう。";
+
+/* No comment provided by engineer. */
+"The source that you entered is not valid." = "入力したソースは有効ではありません";
+
+/* No comment provided by engineer. */
+"The source that you have selected is not valid because one or more of the Enterprise binaries are missing." = "Enterpriseのバイナリーの一つかそれ以上が不足しているため選択したソースは有効ではありません";
+
+/* No comment provided by engineer. */
+"This USB drive cannot be used as a startup disk because OS X only recognizes startup disks with an HFS+ file system." = "OS XはHFS+ファイルシステムを使った起動ディスクのみ認識するためこのUSBドライブを起動ディスクとして使用することはできません";
+
+/* No comment provided by engineer. */
+"This can be useful if you want to conserve your disk space, but it will delete all of your downloaded ISO files and reset your download mirrors." = "これは空き容量を確保したい場合に役立つかもしれませんがダウンロードしたすべてのISOファイルが削除され、またダウンロードしたミラーリストがリセットされます。";
+
+/* No comment provided by engineer. */
+"This operation cannot be undone." = "この作業はできません";
+
+/* No comment provided by engineer. */
+"This source can't be deleted because it is included with Mac Linux USB Loader." = "このソースはMac Linux USB Loaderに含まれているため、削除できませんでした。";
+
+/* No comment provided by engineer. */
+"This source can't be deleted." = "このソースは削除できませんでした。";
+
+/* No comment provided by engineer. */
+"This will clear your stored Enterprise sources, downloaded ISO files, and cached download mirror information every two months." = "二カ月毎に保存されたEnterpriseのソースやダウンロードしたISOファイルとキャッシュされたダウンロードのミラーリストの情報が消去されます";
+
+/* No comment provided by engineer. */
+"To authorize Mac Linux USB Loader to access your USB drive, please click Grant Access below." = "Mac Linux USB LoaderにUSBドライブへのアクセス権限を与えるには下の\"アクセス権限を付与\"クリックしてください";
+
+/* No comment provided by engineer. */
+"Updates" = "アップデート";
+
+/* No comment provided by engineer. */
+"Version" = "バージョン";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "バージョン %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Yes" = "はい";
+
+/* No comment provided by engineer. */
+"You are now ready to use your USB drive!" = "今すぐUSBドライブを使用することができます！";
+
+/* No comment provided by engineer. */
+"You cannot download this distribution because Mac Linux USB Loader has not finished downloading its list of mirrors." = "Mac Linux USB Loaderのミラーリストのダウンロードが完了していないため、このディストリビューションをダウンロードすることができません。";
+
+/* (No Commment) */
+"You cannot download this distribution because Mac USB Linux Loader has not finished downloading its list of mirrors." = "Mac Linux USB Loaderのミラーリストのダウンロードが完了していないため、このディストリビューションをダウンロードすることができません。";
+
+/* No comment provided by engineer. */
+"You need to enter a name for this Enterprise installation source." = "Enterpriseのインストールソースの名前を入力する必要があります";
+
+/* No comment provided by engineer. */
+"You need to enter a path to a folder containing a valid set of Enterprise binaries." = "有効なEnterpriseのバイナリーのセットが含まれているフォルダーへのパスを入力する必要があります";
+
+/* No comment provided by engineer. */
+"You need to enter the version of this Enterprise installation source." = "Enterpriseのインストールソースのバージョンを入力する必要があります";
+
+/* No comment provided by engineer. */
+"You need to select the USB drive to install to." = "インストールするためのUSBドライブを選択する必要があります";
+
+/* No comment provided by engineer. */
+"You need to select the source of the Enterprise binaries that will be copied to this USB drive." = "このUSBドライブにコピーされるEnterpriseのバイナリーのソースを選ぶ必要があります";
+

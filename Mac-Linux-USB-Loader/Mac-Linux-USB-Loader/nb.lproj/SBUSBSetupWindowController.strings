@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "USB Setup"; ObjectID = "1"; */
+"1.title" = "USB Oppsett";
+
+/* Class = "NSButtonCell"; title = "Enable Startup Disk Support"; ObjectID = "9A4-Nc-kbp"; */
+"9A4-Nc-kbp.title" = "Tillat Oppstart Disk Støtte";
+
+/* Class = "NSTextFieldCell"; title = "Advanced Configuration Options"; ObjectID = "BUZ-un-ZlF"; */
+"BUZ-un-ZlF.title" = "Avansert Konfigurasjon Opsjoner";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "E3q-Uh-Ioj"; */
+"E3q-Uh-Ioj.title" = "Merkelapp";
+
+/* Class = "NSTextFieldCell"; title = "USB Boot Controls"; ObjectID = "QDJ-np-znb"; */
+"QDJ-np-znb.title" = "USB Boot Kontroller";
+
+/* Class = "NSButtonCell"; title = "Choose Startup Disk"; ObjectID = "SpM-dG-QBu"; */
+"SpM-dG-QBu.title" = "Velg Startopp Disk";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "doA-4w-haZ"; */
+"doA-4w-haZ.title" = "Forfrisk";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fbC-pL-dAc"; */
+"fbC-pL-dAc.title" = "Tekst Celle";
+
+/* Class = "NSButtonCell"; title = "Edit Enterprise Configuration File"; ObjectID = "mdC-pj-boq"; */
+"mdC-pj-boq.title" = "Rediger Enterprise Konfigurasjons Fil";
+

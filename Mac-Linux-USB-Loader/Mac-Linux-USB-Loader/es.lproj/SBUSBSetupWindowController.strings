@@ -1,0 +1,27 @@
+/* Class = "NSWindow"; title = "USB Setup"; ObjectID = "1"; */
+"1.title" = "Configurar Dispositivo USB";
+
+/* Class = "NSButtonCell"; title = "Enable Startup Disk Support"; ObjectID = "9A4-Nc-kbp"; */
+"9A4-Nc-kbp.title" = "Instalar apoyo por disco de arranque";
+
+/* Class = "NSTextFieldCell"; title = "Advanced Configuration Options"; ObjectID = "BUZ-un-ZlF"; */
+"BUZ-un-ZlF.title" = "Opciones Avanzadas de Configuración";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "E3q-Uh-Ioj"; */
+"E3q-Uh-Ioj.title" = "Etiqueta";
+
+/* Class = "NSTextFieldCell"; title = "USB Boot Controls"; ObjectID = "QDJ-np-znb"; */
+"QDJ-np-znb.title" = "Controles de Arranque USB";
+
+/* Class = "NSButtonCell"; title = "Choose Startup Disk"; ObjectID = "SpM-dG-QBu"; */
+"SpM-dG-QBu.title" = "Seleccionar disco de arranque";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "doA-4w-haZ"; */
+"doA-4w-haZ.title" = "Refrescar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fbC-pL-dAc"; */
+"fbC-pL-dAc.title" = "Celda de texto";
+
+/* Class = "NSButtonCell"; title = "Edit Enterprise Configuration File"; ObjectID = "mdC-pj-boq"; */
+"mdC-pj-boq.title" = "Editar Archivo de Configuración Enterprise";
+

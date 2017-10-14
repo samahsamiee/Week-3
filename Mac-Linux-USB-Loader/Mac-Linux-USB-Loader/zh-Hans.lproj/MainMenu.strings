@@ -1,0 +1,318 @@
+/* Class = "NSMenuItem"; title = "Show Project Website"; ObjectID = "1wx-Wi-Onb"; */
+"1wx-Wi-Onb.title" = "访问项目网站";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Open Tool"; ObjectID = "5DD-hP-clY"; */
+"5DD-hP-clY.title" = "打开工具";
+
+/* Class = "NSMenuItem"; title = "Distribution Downloader"; ObjectID = "5S3-fG-xVw"; */
+"5S3-fG-xVw.title" = "发行版下载器";
+
+/* (No Commment) */
+"9zF-bC-eXK.title" = "报告问题...";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "最小化";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "窗口";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "Mac Linux USB Loader"; ObjectID = "56"; */
+"56.title" = "Mac Linux USB 引导器";
+
+/* Class = "NSMenu"; title = "Mac Linux USB Loader"; ObjectID = "57"; */
+"57.title" = "Mac Linux USB 引导器";
+
+/* Class = "NSMenuItem"; title = "About Mac Linux USB Loader"; ObjectID = "58"; */
+"58.title" = "关于...";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "打开…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "关闭";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "新建";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "打开最近的文件";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "打开最近的文件";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "清除历史记录";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "偏好设置…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide Mac Linux USB Loader"; ObjectID = "134"; */
+"134.title" = "隐藏 Mac Linux USB 引导器";
+
+/* Class = "NSMenuItem"; title = "Quit Mac Linux USB Loader"; ObjectID = "136"; */
+"136.title" = "退出 Mac Linux USB 引导器";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "隐藏其他应用";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "显示全部";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; */
+"195.title" = "停止讲话";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; */
+"196.title" = "开始讲话";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "剪切";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; */
+"200.title" = "拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; */
+"201.title" = "立即检查文稿";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; */
+"204.title" = "显示拼写与语法";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "修改";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; */
+"208.title" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; */
+"209.title" = "查找..";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; */
+"210.title" = "跳到所选部分";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; */
+"211.title" = "语言";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "212"; */
+"212.title" = "语音";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; */
+"213.title" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; */
+"216.title" = "拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "修改";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; */
+"218.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; */
+"219.title" = "键入内容时检查拼写";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "220"; */
+"220.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "221"; */
+"221.title" = "使用所选内容查找";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "295"; */
+"295.title" = "视图";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "296"; */
+"296.title" = "视图";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "297"; */
+"297.title" = "显示工具栏";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "298"; */
+"298.title" = "个性化工具栏…";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; */
+"346.title" = "键入内容时检查拼写";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; */
+"348.title" = "替换";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; */
+"349.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; */
+"350.title" = "智能复制/粘贴";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; */
+"351.title" = "智能引用";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; */
+"354.title" = "智能链接";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "449"; */
+"449.title" = "更改格式";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "450"; */
+"450.title" = "更改格式";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "451"; */
+"451.title" = "改为大写";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "452"; */
+"452.title" = "改为小写";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "453"; */
+"453.title" = "大写";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "457"; */
+"457.title" = "智能短横线";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "458"; */
+"458.title" = "显示替换";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; */
+"462.title" = "文本替换";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "465"; */
+"465.title" = "自动纠正拼写";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "470"; */
+"470.title" = "粘贴并匹配样式";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "491"; */
+"491.title" = "帮助";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "492"; */
+"492.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Mac Linux USB Loader Help"; ObjectID = "493"; */
+"493.title" = "Mac Linux USB 引导器帮助";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "532"; */
+"532.title" = "查找和替换...";
+
+/* Class = "NSMenuItem"; title = "Persistence Manager"; ObjectID = "Enj-Bs-24S"; */
+"Enj-Bs-24S.title" = "持久化管理器";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "Ixf-5n-e5Q"; */
+"Ixf-5n-e5Q.title" = "检查更新...";
+
+/* (No Commment) */
+"LhO-Jz-UPe.title" = "打开项目网页";
+
+/* Class = "NSTextFieldCell"; title = "Mac Linux USB Loader"; ObjectID = "PbZ-Px-5X8"; */
+"PbZ-Px-5X8.title" = "Mac Linux USB 引导器";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "Q1v-1v-FkZ"; */
+"Q1v-1v-FkZ.title" = "设置 USB 设备";
+
+/* Class = "NSMenuItem"; title = "Registered Devices"; ObjectID = "Rct-bv-4eE"; */
+"Rct-bv-4eE.title" = "最近使用的设备";
+
+/* Class = "NSTextFieldCell"; title = "Version 0.0.0 (000)"; ObjectID = "SZ2-R9-aee"; */
+"SZ2-R9-aee.title" = "v0.0.0 (000)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XYg-e8-VkS"; */
+"XYg-e8-VkS.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Open Tool"; ObjectID = "YZF-Y6-wHH"; */
+"YZF-Y6-wHH.title" = "打开工具";
+
+/* Class = "NSMenu"; title = "Registered Devices"; ObjectID = "bCd-j9-j8y"; */
+"bCd-j9-j8y.title" = "最近使用的设备";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "ceI-01-83m"; */
+"ceI-01-83m.title" = "打开工具";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "d8m-Or-MfF"; */
+"d8m-Or-MfF.title" = "打开工具";
+
+/* Class = "NSMenuItem"; title = "Persistence Manager"; ObjectID = "dft-Op-QXY"; */
+"dft-Op-QXY.title" = "持久化管理器";
+
+/* Class = "NSWindow"; title = "Mac Linux USB Loader"; ObjectID = "eVZ-OT-8Zw"; */
+"eVZ-OT-8Zw.title" = "Mac Linux USB 引导器";
+
+/* Class = "NSMenuItem"; title = "Persistence Manager"; ObjectID = "exP-uc-VcW"; */
+"exP-uc-VcW.title" = "持久化管理器";
+
+/* (No Commment) */
+"f5Z-jQ-9Ok.title" = "更多选择";
+
+/* Class = "NSMenuItem"; title = "Donate..."; ObjectID = "fjF-O3-g5i"; */
+"fjF-O3-g5i.title" = "捐款...";
+
+/* Class = "NSMenuItem"; title = "Show Project Homepage"; ObjectID = "iNg-8W-mXB"; */
+"iNg-8W-mXB.title" = "打开项目主页";
+
+/* Class = "NSMenuItem"; title = "Distribution Downloader"; ObjectID = "ihd-oV-PL0"; */
+"ihd-oV-PL0.title" = "下载Linux镜像";
+
+/* Class = "NSMenuItem"; title = "Create New Live USB"; ObjectID = "kO5-Pl-dr9"; */
+"kO5-Pl-dr9.title" = "写入USB镜像";
+
+/* Class = "NSMenu"; title = "Open Tool"; ObjectID = "kqZ-Ze-RYr"; */
+"kqZ-Ze-RYr.title" = "打开工具";
+
+/* Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "oSM-TE-Nol"; */
+"oSM-TE-Nol.title" = "欢迎界面";
+
+/* (No Commment) */
+"oZ5-WW-zYO.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Distribution Downloader"; ObjectID = "r2D-fo-zsg"; */
+"r2D-fo-zsg.title" = "下载Linux镜像";
+
+/* Class = "NSMenuItem"; title = "Report Bug"; ObjectID = "sDa-Rj-9rb"; */
+"sDa-Rj-9rb.title" = "报告问题";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "t7M-Sl-0ab"; */
+"t7M-Sl-0ab.title" = "设置 USB 设备";
+
+/* Class = "NSMenuItem"; title = "Setup USB Device"; ObjectID = "vSy-lw-pcI"; */
+"vSy-lw-pcI.title" = "设置 USB 设备";
+
+/* Class = "NSMenuItem"; title = "Report Bug"; ObjectID = "wZe-Cn-2iG"; */
+"wZe-Cn-2iG.title" = "报告问题";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "z0e-73-0dd"; */
+"z0e-73-0dd.title" = "Table View Cell";
+

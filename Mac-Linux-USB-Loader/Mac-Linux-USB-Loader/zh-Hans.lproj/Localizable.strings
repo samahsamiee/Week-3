@@ -1,0 +1,201 @@
+/* No comment provided by engineer. */
+"Are you sure that you want to cancel this download operation?" = "你确定要取消下载吗？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear caches?" = "你确定要清除缓存么？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to enable clearing caches?" = "你确定启用缓存清除么？";
+
+/* No comment provided by engineer. */
+"Can't download this distribution." = "不能下载这个系统";
+
+/* No comment provided by engineer. */
+"Can't install to this USB device." = "不能安装在这个U盘上";
+
+/* No comment provided by engineer. */
+"Cannot use this USB as a startup disk." = "不能用这个U盘启动";
+
+/* No comment provided by engineer. */
+"Clear All" = "全部清除";
+
+/* No comment provided by engineer. */
+"Couldn't get security scoped bookmarks." = "Couldn't get security scoped bookmarks.";
+
+/* No comment provided by engineer. */
+"Create Live USB" = "创建演示U盘";
+
+/* No comment provided by engineer. */
+"Creating persistence file..." = "正在创建持久化文件...";
+
+/* No comment provided by engineer. */
+"Creating virtual loopback filesystem..." = "正在创建虚拟文件系统...";
+
+/* (No Commment) */
+"Current Version" = "当前版本";
+
+/* No comment provided by engineer. */
+"Distribution Downloader" = "系统下载器";
+
+/* (No Commment) */
+"Distribution Name" = "系统名称";
+
+/* No comment provided by engineer. */
+"Done creating persistence." = "完成持久化创建";
+
+/* No comment provided by engineer. */
+"Downloader" = "下载器";
+
+/* No comment provided by engineer. */
+"Enterprise" = "安装";
+
+/* No comment provided by engineer. */
+"File too big" = "文件过大";
+
+/* No comment provided by engineer. */
+"Finished Installing: " = "完成安装：";
+
+/* No comment provided by engineer. */
+"General" = "概览";
+
+/* No comment provided by engineer. */
+"Grant Access" = "授权访问";
+
+/* No comment provided by engineer. */
+"Invalid location name entered." = "无效的位置";
+
+/* No comment provided by engineer. */
+"Mac Linux USB Loader cannot download the mirror lists because you are not connected to the Internet." = "网络连接已经断开，无法下载";
+
+/* No comment provided by engineer. */
+"No" = "取消";
+
+/* No comment provided by engineer. */
+"No Enterprise source file selected." = "没有选择安装源";
+
+/* No comment provided by engineer. */
+"No Registered Devices" = "无已经安装的设备";
+
+/* No comment provided by engineer. */
+"No USB drive selected." = "未选择U盘";
+
+/* No comment provided by engineer. */
+"No information about this distribution was found in your language." = "没有当前语言的系统信息";
+
+/* No comment provided by engineer. */
+"No information on this distribution could be found due to a network problem. You might not be connected to the Internet." = "网络连接出现问题，无法找到系统信息";
+
+/* No comment provided by engineer. */
+"No network connection." = "无网络连接";
+
+/* No comment provided by engineer. */
+"No source location name entered." = "未输入源名称";
+
+/* No comment provided by engineer. */
+"No source location path entered." = "未输入源路径";
+
+/* No comment provided by engineer. */
+"No source location version entered." = "未输入版本";
+
+/* No comment provided by engineer. */
+"Not enough free space" = "可用空间不足";
+
+/* No comment provided by engineer. */
+"Okay" = "确认";
+
+/* No comment provided by engineer. */
+"Perform Installation" = "开始安装";
+
+/* No comment provided by engineer. */
+"Persistence Manager" = "持久化管理器";
+
+/* No comment provided by engineer. */
+"Please select the directory containing Enterprise files." = "请选择包含安装文件的目录";
+
+/* No comment provided by engineer. */
+"Preferences" = "偏好设置";
+
+/* No comment provided by engineer. */
+"Setup USB Device" = "设置U盘";
+
+/* No comment provided by engineer. */
+"The ISO file that you have selected is too big to fit on the selected USB drive. Files on a FAT32 volume cannot be larger than 4 GB." = "镜像过大，FAT32 分区不能放入大于 4 GB的文件";
+
+/* No comment provided by engineer. */
+"The USB device that you have selected cannot be accessed because the system denied access to the resource." = "所选择的U盘无访问权限";
+
+/* No comment provided by engineer. */
+"The USB drive that you have selected does not have enough free space. At least %@ of space is required." = "U盘空间不足，至少需要 %@ ";
+
+/* No comment provided by engineer. */
+"The installation failed because the Enterprise source that you have selected is either incomplete or missing." = "安装文件不完整，安装失败";
+
+/* No comment provided by engineer. */
+"The name that you have entered for this Enterprise source already exists. Please enter a different name." = "安装文件名称已存在，请输入另一个名称";
+
+/* No comment provided by engineer. */
+"The persistence file has been created. You should be able to boot your selected Linux distribution with persistence on this USB drive now." = "持久化文件已经创建";
+
+/* No comment provided by engineer. */
+"The source that you entered is not valid." = "输入的源不可用";
+
+/* No comment provided by engineer. */
+"The source that you have selected is not valid because one or more of the Enterprise binaries are missing." = "选择的源不可用，缺失一个或多个安装文件";
+
+/* No comment provided by engineer. */
+"This USB drive cannot be used as a startup disk because OS X only recognizes startup disks with an HFS+ file system." = "U盘不能用作启动盘，因为OS X系统只识别 HFS+的启动盘";
+
+/* No comment provided by engineer. */
+"This can be useful if you want to conserve your disk space, but it will delete all of your downloaded ISO files and reset your download mirrors." = "清空下载的镜像和镜像列表来节省磁盘空间";
+
+/* No comment provided by engineer. */
+"This operation cannot be undone." = "操作无法撤销";
+
+/* No comment provided by engineer. */
+"This source can't be deleted because it is included with Mac Linux USB Loader." = "这个源包含程序本身，不能被删除";
+
+/* No comment provided by engineer. */
+"This source can't be deleted." = "不能删除这个源";
+
+/* No comment provided by engineer. */
+"This will clear your stored Enterprise sources, downloaded ISO files, and cached download mirror information every two months." = "这个操作将会清空储存的安装源、已经下载的系统镜像，并且设置为每两个月更新镜像列表一次";
+
+/* No comment provided by engineer. */
+"To authorize Mac Linux USB Loader to access your USB drive, please click Grant Access below." = "程序需要写入镜像，请选择授权访问";
+
+/* No comment provided by engineer. */
+"Updates" = "更新";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Yes" = "确定";
+
+/* No comment provided by engineer. */
+"You are now ready to use your USB drive!" = "你现在可以开始使用U盘了";
+
+/* No comment provided by engineer. */
+"You cannot download this distribution because Mac Linux USB Loader has not finished downloading its list of mirrors." = "列表正在更新，暂时不能下载系统镜像";
+
+/* (No Commment) */
+"You cannot download this distribution because Mac USB Linux Loader has not finished downloading its list of mirrors." = "列表正在更新，暂时不能下载系统镜像";
+
+/* No comment provided by engineer. */
+"You need to enter a name for this Enterprise installation source." = "你需要输入安装文件源的名称";
+
+/* No comment provided by engineer. */
+"You need to enter a path to a folder containing a valid set of Enterprise binaries." = "你需要选择一个包含有效安装文件的文件夹";
+
+/* No comment provided by engineer. */
+"You need to enter the version of this Enterprise installation source." = "你需要选择安装程序的版本";
+
+/* No comment provided by engineer. */
+"You need to select the USB drive to install to." = "你需要选择要写入的U盘";
+
+/* No comment provided by engineer. */
+"You need to select the source of the Enterprise binaries that will be copied to this USB drive." = "你需要选择写入U盘的安装程序来源";
+

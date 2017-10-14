@@ -1,0 +1,75 @@
+/* Class = "NSMenuItem"; title = "Ubuntu"; ObjectID = "1Mg-wi-KZr"; */
+"1Mg-wi-KZr.title" = "Ubuntu";
+
+/* Class = "NSButtonCell"; title = "This ISO lacks an EFI-enabled kernel"; ObjectID = "2N3-rh-Hxh"; */
+"2N3-rh-Hxh.title" = "该镜像缺少支持EFI的内核";
+
+/* Class = "NSMenuItem"; title = "Tails"; ObjectID = "2ch-0e-x2y"; */
+"2ch-0e-x2y.title" = "Tails";
+
+/* Class = "NSTextFieldCell"; title = "Choose Enterprise Source:"; ObjectID = "4e7-Dc-wKh"; */
+"4e7-Dc-wKh.title" = "Choose Enterprise Source:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "6eC-ug-AG8"; */
+"6eC-ug-AG8.title" = "刷新";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "6uC-rz-J2n"; */
+"6uC-rz-J2n.title" = "前一个";
+
+/* Class = "NSMenuItem"; title = "Other"; ObjectID = "7Id-gS-sW7"; */
+"7Id-gS-sW7.title" = "其他";
+
+/* Class = "NSTextFieldCell"; title = "Your Live USB has been created successfully. To boot it, please leave this drive in your Mac and restart your computer while holding down the Option (⌥) key. When the boot manager appears, select your drive."; ObjectID = "8Ja-iN-ujj"; */
+"8Ja-iN-ujj.title" = "镜像已经成功写入。若要引导U盘上的系统，请保持U盘插在Mac上并重启电脑，按住Option (⌥)键，当启动菜单出现时，选择您的U盘。";
+
+/* Class = "NSTextFieldCell"; title = "Installation Options"; ObjectID = "85w-Ab-eWi"; */
+"85w-Ab-eWi.title" = "安装选项";
+
+/* Class = "NSTabViewItem"; label = "Third"; ObjectID = "206-oW-lz5"; */
+"206-oW-lz5.label" = "第三";
+
+/* Class = "NSMenuItem"; title = "Debian"; ObjectID = "ClT-6Q-5sn"; */
+"ClT-6Q-5sn.title" = "Debian";
+
+/* Class = "NSTextFieldCell"; title = "Success!"; ObjectID = "CpB-zL-Sag"; */
+"CpB-zL-Sag.title" = "成功";
+
+/* Class = "NSMenuItem"; title = "Kali"; ObjectID = "DJS-vr-iC0"; */
+"DJS-vr-iC0.title" = "Kali";
+
+/* Class = "NSTextFieldCell"; title = "Choose Destination:"; ObjectID = "JzD-IM-Mo0"; */
+"JzD-IM-Mo0.title" = "选择目标：";
+
+/* Class = "NSButtonCell"; title = "This ISO is based on a legacy version of Ubuntu"; ObjectID = "K4N-ZO-OI0"; */
+"K4N-ZO-OI0.title" = "该镜像的版本低于 Ubuntu 14.10";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "Piy-za-BZH"; */
+"Piy-za-BZH.title" = "刷新";
+
+/* Class = "NSButtonCell"; title = "Skip the boot selection menu"; ObjectID = "RBA-Ti-vGI"; */
+"RBA-Ti-vGI.title" = "跳过启动菜单";
+
+/* (No Commment) */
+"Tnc-ZF-mM8.title" = "开始安装";
+
+/* Class = "NSTabViewItem"; label = "Second"; ObjectID = "Zyc-ZH-ZTl"; */
+"Zyc-ZH-ZTl.label" = "第二";
+
+/* Class = "NSTextFieldCell"; title = "Distribution Family:"; ObjectID = "aOF-7O-fM8"; */
+"aOF-7O-fM8.title" = "Distribution Family:";
+
+/* Class = "NSTextFieldCell"; title = "USB Device Name"; ObjectID = "acy-rY-KEm"; */
+"acy-rY-KEm.title" = "U盘名称";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "e20-PA-yfy"; */
+"e20-PA-yfy.title" = "OtherViews";
+
+/* Class = "NSTabViewItem"; label = "First"; ObjectID = "iID-fj-8Oj"; */
+"iID-fj-8Oj.label" = "第一";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "lUE-9Y-ccg"; */
+"lUE-9Y-ccg.title" = "下一个";
+

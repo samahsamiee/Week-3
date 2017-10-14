@@ -1,0 +1,48 @@
+
+/* Class = "NSMenuItem"; title = "weekly"; ObjectID = "4Be-1e-K5t"; */
+"4Be-1e-K5t.title" = "weekly";
+
+/* Class = "NSMenuItem"; title = "once per application launch"; ObjectID = "8vt-ts-25C"; */
+"8vt-ts-25C.title" = "once per application launch";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9a4-XT-p28"; */
+"9a4-XT-p28.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "yearly"; ObjectID = "AVN-H6-ilo"; */
+"AVN-H6-ilo.title" = "yearly";
+
+/* Class = "NSButtonCell"; title = "Open the downloaded ISO file"; ObjectID = "DEP-br-4VI"; */
+"DEP-br-4VI.title" = "Open the downloaded ISO file";
+
+/* Class = "NSTextFieldCell"; title = "Update mirror lists:"; ObjectID = "DK4-Bn-Yrx"; */
+"DK4-Bn-Yrx.title" = "Update mirror lists:";
+
+/* Class = "NSButtonCell"; title = "Reveal in Finder"; ObjectID = "KgJ-iP-2yG"; */
+"KgJ-iP-2yG.title" = "Reveal in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Allow up to"; ObjectID = "U0W-FU-ZGT"; */
+"U0W-FU-ZGT.title" = "Allow up to";
+
+/* Class = "NSButtonCell"; title = "Ask each time"; ObjectID = "WoO-Ht-kfm"; */
+"WoO-Ht-kfm.title" = "Ask each time";
+
+/* Class = "NSTextFieldCell"; title = "simultaneous download operations."; ObjectID = "aFy-72-3os"; */
+"aFy-72-3os.title" = "simultaneous download operations.";
+
+/* Class = "NSMenuItem"; title = "monthly"; ObjectID = "cGw-9o-3M3"; */
+"cGw-9o-3M3.title" = "monthly";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "pL0-W8-rfZ"; */
+"pL0-W8-rfZ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "When a download has completed:"; ObjectID = "pf6-Co-bXh"; */
+"pf6-Co-bXh.title" = "When a download has completed:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "pwa-Ux-7V3"; */
+"pwa-Ux-7V3.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Do nothing"; ObjectID = "qe4-3B-RSI"; */
+"qe4-3B-RSI.title" = "Do nothing";
+
+/* Class = "NSMenuItem"; title = "daily"; ObjectID = "vST-aP-7d3"; */
+"vST-aP-7d3.title" = "daily";
